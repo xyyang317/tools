@@ -1,0 +1,5602 @@
+{
+    "gametarget-1": {
+        "class": "bottle",
+        "score": 0.04443557932972908
+    },
+    "gametarget-2": {
+        "class": "person",
+        "score": 0.27844369411468506
+    },
+    "gametarget-3": {
+        "class": "cake",
+        "score": 0.02481413632631302
+    },
+    "gametarget-4": {
+        "class": "truck",
+        "score": 0.2888171374797821
+    },
+    "gametarget-5": {
+        "class": "traffic light",
+        "score": 0.06642251461744308
+    },
+    "gametarget-6": {
+        "class": "person",
+        "score": 0.14381757378578186
+    },
+    "gametarget-7": {
+        "class": "vase",
+        "score": 0.22422467172145844
+    },
+    "gametarget-8": {
+        "class": "car",
+        "score": 0.3554193377494812
+    },
+    "gametarget-9": {
+        "class": "bowl",
+        "score": 0.1082175076007843
+    },
+    "gametarget-10": {
+        "class": "person",
+        "score": 0.9222725033760071
+    },
+    "gametarget-11": {
+        "class": "person",
+        "score": 0.6376456618309021
+    },
+    "gametarget-12": {
+        "class": "motorbike",
+        "score": 0.785510241985321
+    },
+    "gametarget-13": {
+        "class": "sheep",
+        "score": 0.17022913694381714
+    },
+    "gametarget-14": {
+        "class": "person",
+        "score": 0.9810733199119568
+    },
+    "gametarget-15": {
+        "class": "person",
+        "score": 0.9540727138519287
+    },
+    "gametarget-16": {
+        "class": "car",
+        "score": 0.9157590270042419
+    },
+    "gametarget-17": {
+        "class": "boat",
+        "score": 0.2060614824295044
+    },
+    "gametarget-18": {
+        "class": "bottle",
+        "score": 0.16102056205272675
+    },
+    "gametarget-19": {
+        "class": "person",
+        "score": 0.8000518679618835
+    },
+    "gametarget-20": {
+        "class": "cell phone",
+        "score": 0.1893177628517151
+    },
+    "zebra-1": {
+        "class": "zebra",
+        "score": 0.9855159521102905
+    },
+    "zebra-2": {
+        "class": "zebra",
+        "score": 0.9832252860069275
+    },
+    "zebra-3": {
+        "class": "zebra",
+        "score": 0.9821429252624512
+    },
+    "zebra-4": {
+        "class": "zebra",
+        "score": 0.9646849036216736
+    },
+    "zebra-5": {
+        "class": "zebra",
+        "score": 0.9791709780693054
+    },
+    "zebra-6": {
+        "class": "zebra",
+        "score": 0.9626545310020447
+    },
+    "zebra-7": {
+        "class": "cow",
+        "score": 0.8374871015548706
+    },
+    "zebra-8": {
+        "class": "zebra",
+        "score": 0.5960596203804016
+    },
+    "zebra-9": {
+        "class": "person",
+        "score": 0.355825811624527
+    },
+    "zebra-10": {
+        "class": "zebra",
+        "score": 0.991456925868988
+    },
+    "zebra-11": {
+        "class": "zebra",
+        "score": 0.998885989189148
+    },
+    "zebra-12": {
+        "class": "truck",
+        "score": 0.11931945383548737
+    },
+    "zebra-13": {
+        "class": "zebra",
+        "score": 0.9595690369606018
+    },
+    "zebra-14": {
+        "class": "zebra",
+        "score": 0.7278146147727966
+    },
+    "zebra-15": {
+        "class": "bird",
+        "score": 0.1296049803495407
+    },
+    "zebra-16": {
+        "class": "zebra",
+        "score": 0.9672188758850098
+    },
+    "zebra-17": {
+        "class": "zebra",
+        "score": 0.876664400100708
+    },
+    "zebra-18": {
+        "class": "zebra",
+        "score": 0.9691097736358643
+    },
+    "zebra-19": {
+        "class": "zebra",
+        "score": 0.9105230569839478
+    },
+    "zebra-20": {
+        "class": "zebra",
+        "score": 0.952419102191925
+    },
+    "goldfish-1": {
+        "class": "kite",
+        "score": 0.7570411562919617
+    },
+    "goldfish-2": {
+        "class": "diningtable",
+        "score": 0.35976675152778625
+    },
+    "goldfish-3": {
+        "class": "book",
+        "score": 0.05747789889574051
+    },
+    "goldfish-4": {
+        "class": "bird",
+        "score": 0.45083940029144287
+    },
+    "goldfish-5": {
+        "class": "person",
+        "score": 0.14099228382110596
+    },
+    "goldfish-6": {
+        "class": "bed",
+        "score": 0.010768025182187557
+    },
+    "goldfish-7": {
+        "class": "carrot",
+        "score": 0.2877504825592041
+    },
+    "goldfish-8": {
+        "class": "person",
+        "score": 0.2854543626308441
+    },
+    "goldfish-9": {
+        "class": "carrot",
+        "score": 0.6087103486061096
+    },
+    "goldfish-10": {
+        "class": "umbrella",
+        "score": 0.18411332368850708
+    },
+    "goldfish-11": {
+        "class": "umbrella",
+        "score": 0.45085594058036804
+    },
+    "goldfish-12": {
+        "class": "person",
+        "score": 0.32283830642700195
+    },
+    "goldfish-13": {
+        "class": "pottedplant",
+        "score": 0.09807300567626953
+    },
+    "goldfish-14": {
+        "class": "tvmonitor",
+        "score": 0.8551927804946899
+    },
+    "goldfish-15": {
+        "class": "cup",
+        "score": 0.24018754065036774
+    },
+    "goldfish-16": {
+        "class": "kite",
+        "score": 0.7893945574760437
+    },
+    "goldfish-17": {
+        "class": "cake",
+        "score": 0.40013760328292847
+    },
+    "goldfish-18": {
+        "class": "teddy bear",
+        "score": 0.033064138144254684
+    },
+    "goldfish-19": {
+        "class": "bird",
+        "score": 0.8066028356552124
+    },
+    "goldfish-20": {
+        "class": "bowl",
+        "score": 0.23684294521808624
+    },
+    "deer-1": {
+        "class": "dog",
+        "score": 0.8202564120292664
+    },
+    "deer-2": {
+        "class": "cat",
+        "score": 0.8444849848747253
+    },
+    "deer-3": {
+        "class": "cow",
+        "score": 0.4280046820640564
+    },
+    "deer-4": {
+        "class": "sheep",
+        "score": 0.6046075224876404
+    },
+    "deer-5": {
+        "class": "cow",
+        "score": 0.10794549435377121
+    },
+    "deer-6": {
+        "class": "person",
+        "score": 0.780272364616394
+    },
+    "deer-7": {
+        "class": "dog",
+        "score": 0.6139662265777588
+    },
+    "deer-8": {
+        "class": "bird",
+        "score": 0.39855924248695374
+    },
+    "deer-9": {
+        "class": "sheep",
+        "score": 0.31255844235420227
+    },
+    "deer-10": {
+        "class": "giraffe",
+        "score": 0.30066797137260437
+    },
+    "deer-11": {
+        "class": "cat",
+        "score": 0.398573637008667
+    },
+    "deer-12": {
+        "class": "chair",
+        "score": 0.9764222502708435
+    },
+    "deer-13": {
+        "class": "bird",
+        "score": 0.6396305561065674
+    },
+    "deer-14": {
+        "class": "bird",
+        "score": 0.4050401747226715
+    },
+    "deer-15": {
+        "class": "cow",
+        "score": 0.2034255862236023
+    },
+    "deer-16": {
+        "class": "cow",
+        "score": 0.029962589964270592
+    },
+    "deer-17": {
+        "class": "bird",
+        "score": 0.9612035751342773
+    },
+    "deer-18": {
+        "class": "dog",
+        "score": 0.25660380721092224
+    },
+    "deer-19": {
+        "class": "horse",
+        "score": 0.8137774467468262
+    },
+    "deer-20": {
+        "class": "horse",
+        "score": 0.28298667073249817
+    },
+    "lion-1": {
+        "class": "elephant",
+        "score": 0.5274997353553772
+    },
+    "lion-2": {
+        "class": "person",
+        "score": 0.9469207525253296
+    },
+    "lion-3": {
+        "class": "cow",
+        "score": 0.9137482047080994
+    },
+    "lion-4": {
+        "class": "boat",
+        "score": 0.2605108618736267
+    },
+    "lion-5": {
+        "class": "parking meter",
+        "score": 0.18737861514091492
+    },
+    "lion-6": {
+        "class": "apple",
+        "score": 0.040418073534965515
+    },
+    "lion-7": {
+        "class": "giraffe",
+        "score": 0.24127553403377533
+    },
+    "lion-8": {
+        "class": "cow",
+        "score": 0.9111223220825195
+    },
+    "lion-9": {
+        "class": "cow",
+        "score": 0.758300244808197
+    },
+    "lion-10": {
+        "class": "dog",
+        "score": 0.6830916404724121
+    },
+    "lion-11": {
+        "class": "person",
+        "score": 0.47324830293655396
+    },
+    "lion-12": {
+        "class": "horse",
+        "score": 0.3841564953327179
+    },
+    "lion-13": {
+        "class": "cow",
+        "score": 0.09944497793912888
+    },
+    "lion-14": {
+        "class": "cow",
+        "score": 0.27588793635368347
+    },
+    "lion-15": {
+        "class": "cow",
+        "score": 0.8761802315711975
+    },
+    "lion-16": {
+        "class": "car",
+        "score": 0.06914513558149338
+    },
+    "lion-17": {
+        "class": "dog",
+        "score": 0.25206926465034485
+    },
+    "lion-18": {
+        "class": "dog",
+        "score": 0.8499075770378113
+    },
+    "lion-19": {
+        "class": "bench",
+        "score": 0.4287080764770508
+    },
+    "lion-20": {
+        "class": "person",
+        "score": 0.9968199729919434
+    },
+    "motorcycle-1": {
+        "class": "person",
+        "score": 0.6304979920387268
+    },
+    "motorcycle-2": {
+        "class": "person",
+        "score": 0.9786064624786377
+    },
+    "motorcycle-3": {
+        "class": "motorbike",
+        "score": 0.6083300709724426
+    },
+    "motorcycle-4": {
+        "class": "person",
+        "score": 0.589633584022522
+    },
+    "motorcycle-5": {
+        "class": "person",
+        "score": 0.5784441232681274
+    },
+    "motorcycle-6": {
+        "class": "person",
+        "score": 0.9375249147415161
+    },
+    "motorcycle-7": {
+        "class": "car",
+        "score": 0.5062776803970337
+    },
+    "motorcycle-8": {
+        "class": "car",
+        "score": 0.7673646807670593
+    },
+    "motorcycle-9": {
+        "class": "motorbike",
+        "score": 0.6441602110862732
+    },
+    "motorcycle-10": {
+        "class": "truck",
+        "score": 0.7114890813827515
+    },
+    "motorcycle-11": {
+        "class": "motorbike",
+        "score": 0.8344560861587524
+    },
+    "motorcycle-12": {
+        "class": "motorbike",
+        "score": 0.923387348651886
+    },
+    "motorcycle-13": {
+        "class": "motorbike",
+        "score": 0.9274076819419861
+    },
+    "motorcycle-14": {
+        "class": "motorbike",
+        "score": 0.7602308392524719
+    },
+    "motorcycle-15": {
+        "class": "person",
+        "score": 0.9445884823799133
+    },
+    "motorcycle-16": {
+        "class": "person",
+        "score": 0.926983118057251
+    },
+    "motorcycle-17": {
+        "class": "person",
+        "score": 0.9868241548538208
+    },
+    "motorcycle-18": {
+        "class": "cup",
+        "score": 0.16900943219661713
+    },
+    "motorcycle-19": {
+        "class": "person",
+        "score": 0.8552806973457336
+    },
+    "motorcycle-20": {
+        "class": "motorbike",
+        "score": 0.951429009437561
+    },
+    "hand-1": {
+        "class": "person",
+        "score": 0.917691707611084
+    },
+    "hand-2": {
+        "class": "person",
+        "score": 0.34203091263771057
+    },
+    "hand-3": {
+        "class": "person",
+        "score": 0.9978609681129456
+    },
+    "hand-4": {
+        "class": "person",
+        "score": 0.9204962253570557
+    },
+    "hand-5": {
+        "class": "person",
+        "score": 0.9591907262802124
+    },
+    "hand-6": {
+        "class": "person",
+        "score": 0.9688773155212402
+    },
+    "hand-7": {
+        "class": "person",
+        "score": 0.9816127419471741
+    },
+    "hand-8": {
+        "class": "person",
+        "score": 0.9052861332893372
+    },
+    "hand-9": {
+        "class": "person",
+        "score": 0.9944669604301453
+    },
+    "hand-10": {
+        "class": "person",
+        "score": 0.8965681195259094
+    },
+    "hand-11": {
+        "class": "person",
+        "score": 0.9953517913818359
+    },
+    "hand-12": {
+        "class": "person",
+        "score": 0.9836317896842957
+    },
+    "hand-13": {
+        "class": "person",
+        "score": 0.9734238982200623
+    },
+    "hand-14": {
+        "class": "sofa",
+        "score": 0.9367946982383728
+    },
+    "hand-15": {
+        "class": "person",
+        "score": 0.7582149505615234
+    },
+    "hand-16": {
+        "class": "bottle",
+        "score": 0.9322731494903564
+    },
+    "hand-17": {
+        "class": "person",
+        "score": 0.8445326685905457
+    },
+    "hand-18": {
+        "class": "person",
+        "score": 0.9909986853599548
+    },
+    "hand-19": {
+        "class": "person",
+        "score": 0.6938051581382751
+    },
+    "hand-20": {
+        "class": "person",
+        "score": 0.925373375415802
+    },
+    "gecko-1": {
+        "class": "refrigerator",
+        "score": 0.5256920456886292
+    },
+    "gecko-2": {
+        "class": "person",
+        "score": 0.9269585013389587
+    },
+    "gecko-3": {
+        "class": "cake",
+        "score": 0.09718935936689377
+    },
+    "gecko-4": {
+        "class": "bird",
+        "score": 0.16670161485671997
+    },
+    "gecko-5": {
+        "class": "kite",
+        "score": 0.17705011367797852
+    },
+    "gecko-6": {
+        "class": "bird",
+        "score": 0.38149017095565796
+    },
+    "gecko-7": {
+        "class": "bird",
+        "score": 0.7640355825424194
+    },
+    "gecko-8": {
+        "class": "bowl",
+        "score": 0.3676600456237793
+    },
+    "gecko-9": {
+        "class": "cup",
+        "score": 0.4543800950050354
+    },
+    "gecko-10": {
+        "class": "apple",
+        "score": 0.27640172839164734
+    },
+    "gecko-11": {
+        "class": "vase",
+        "score": 0.6799272298812866
+    },
+    "gecko-12": {
+        "class": "refrigerator",
+        "score": 0.020031917840242386
+    },
+    "gecko-13": {
+        "class": "cup",
+        "score": 0.384448766708374
+    },
+    "gecko-14": {
+        "class": "bed",
+        "score": 0.48127540946006775
+    },
+    "gecko-15": {
+        "class": "teddy bear",
+        "score": 0.10813886672258377
+    },
+    "gecko-16": {
+        "class": "person",
+        "score": 0.4599953889846802
+    },
+    "gecko-17": {
+        "class": "dog",
+        "score": 0.29939165711402893
+    },
+    "gecko-18": {
+        "class": "cake",
+        "score": 0.10296347737312317
+    },
+    "gecko-19": {
+        "class": "cat",
+        "score": 0.39040255546569824
+    },
+    "gecko-20": {
+        "class": "cake",
+        "score": 0.2854274809360504
+    },
+    "gorilla-1": {
+        "class": "cow",
+        "score": 0.711097240447998
+    },
+    "gorilla-2": {
+        "class": "bear",
+        "score": 0.8483052253723145
+    },
+    "gorilla-3": {
+        "class": "bear",
+        "score": 0.9126274585723877
+    },
+    "gorilla-4": {
+        "class": "bear",
+        "score": 0.33472785353660583
+    },
+    "gorilla-5": {
+        "class": "bear",
+        "score": 0.2429940402507782
+    },
+    "gorilla-6": {
+        "class": "dog",
+        "score": 0.7959752678871155
+    },
+    "gorilla-7": {
+        "class": "bear",
+        "score": 0.9147857427597046
+    },
+    "gorilla-8": {
+        "class": "bear",
+        "score": 0.37239956855773926
+    },
+    "gorilla-9": {
+        "class": "bear",
+        "score": 0.668923556804657
+    },
+    "gorilla-10": {
+        "class": "bear",
+        "score": 0.8863555788993835
+    },
+    "gorilla-11": {
+        "class": "bear",
+        "score": 0.2574652135372162
+    },
+    "gorilla-12": {
+        "class": "bear",
+        "score": 0.6022089719772339
+    },
+    "gorilla-13": {
+        "class": "bear",
+        "score": 0.7097336649894714
+    },
+    "gorilla-14": {
+        "class": "bear",
+        "score": 0.9703481793403625
+    },
+    "gorilla-15": {
+        "class": "bear",
+        "score": 0.8438970446586609
+    },
+    "gorilla-16": {
+        "class": "bear",
+        "score": 0.687168300151825
+    },
+    "gorilla-17": {
+        "class": "bear",
+        "score": 0.5793240666389465
+    },
+    "gorilla-18": {
+        "class": "person",
+        "score": 0.8213476538658142
+    },
+    "gorilla-19": {
+        "class": "person",
+        "score": 0.5903672575950623
+    },
+    "gorilla-20": {
+        "class": "cow",
+        "score": 0.5055520534515381
+    },
+    "frog-1": {
+        "class": "person",
+        "score": 0.8908564448356628
+    },
+    "frog-2": {
+        "class": "bird",
+        "score": 0.12490211427211761
+    },
+    "frog-3": {
+        "class": "dog",
+        "score": 0.12411634624004364
+    },
+    "frog-4": {
+        "class": "broccoli",
+        "score": 0.3868975341320038
+    },
+    "frog-5": {
+        "class": "bird",
+        "score": 0.08399873971939087
+    },
+    "frog-6": {
+        "class": "bird",
+        "score": 0.47532910108566284
+    },
+    "frog-7": {
+        "class": "person",
+        "score": 0.5479452013969421
+    },
+    "frog-8": {
+        "class": "dog",
+        "score": 0.49158117175102234
+    },
+    "frog-9": {
+        "class": "bowl",
+        "score": 0.9183710813522339
+    },
+    "frog-10": {
+        "class": "pottedplant",
+        "score": 0.06855886429548264
+    },
+    "frog-11": {
+        "class": "person",
+        "score": 0.7490816712379456
+    },
+    "frog-12": {
+        "class": "banana",
+        "score": 0.08544563502073288
+    },
+    "frog-13": {
+        "class": "carrot",
+        "score": 0.12337595224380493
+    },
+    "frog-14": {
+        "class": "banana",
+        "score": 0.6365079879760742
+    },
+    "frog-15": {
+        "class": "bird",
+        "score": 0.24260681867599487
+    },
+    "frog-16": {
+        "class": "vase",
+        "score": 0.07628049701452255
+    },
+    "frog-17": {
+        "class": "aeroplane",
+        "score": 0.03596138581633568
+    },
+    "frog-18": {
+        "class": "person",
+        "score": 0.31547853350639343
+    },
+    "frog-19": {
+        "class": "pottedplant",
+        "score": 0.012948216870427132
+    },
+    "frog-20": {
+        "class": "surfboard",
+        "score": 0.5739418268203735
+    },
+    "kite-1": {
+        "class": "person",
+        "score": 0.8481305241584778
+    },
+    "kite-2": {
+        "class": "kite",
+        "score": 0.3318617641925812
+    },
+    "kite-3": {
+        "class": "kite",
+        "score": 0.31417351961135864
+    },
+    "kite-4": {
+        "class": "kite",
+        "score": 0.5747422575950623
+    },
+    "kite-5": {
+        "class": "person",
+        "score": 0.9622530937194824
+    },
+    "kite-6": {
+        "class": "person",
+        "score": 0.6995435953140259
+    },
+    "kite-7": {
+        "class": "car",
+        "score": 0.06658826023340225
+    },
+    "kite-8": {
+        "class": "person",
+        "score": 0.5869792699813843
+    },
+    "kite-9": {
+        "class": "person",
+        "score": 0.9277446866035461
+    },
+    "kite-10": {
+        "class": "person",
+        "score": 0.713921844959259
+    },
+    "kite-11": {
+        "class": "kite",
+        "score": 0.5500255227088928
+    },
+    "kite-12": {
+        "class": "person",
+        "score": 0.2518581449985504
+    },
+    "kite-13": {
+        "class": "bird",
+        "score": 0.10859952867031097
+    },
+    "kite-14": {
+        "class": "person",
+        "score": 0.9616914391517639
+    },
+    "kite-15": {
+        "class": "bird",
+        "score": 0.7357726097106934
+    },
+    "kite-16": {
+        "class": "person",
+        "score": 0.9723034501075745
+    },
+    "kite-17": {
+        "class": "kite",
+        "score": 0.7695785164833069
+    },
+    "kite-18": {
+        "class": "kite",
+        "score": 0.6704408526420593
+    },
+    "kite-19": {
+        "class": "kite",
+        "score": 0.7278712391853333
+    },
+    "kite-20": {
+        "class": "person",
+        "score": 0.6529468297958374
+    },
+    "turtle-1": {
+        "class": "kite",
+        "score": 0.5716116428375244
+    },
+    "turtle-2": {
+        "class": "person",
+        "score": 0.07428114116191864
+    },
+    "turtle-3": {
+        "class": "surfboard",
+        "score": 0.15868538618087769
+    },
+    "turtle-4": {
+        "class": "aeroplane",
+        "score": 0.6384473443031311
+    },
+    "turtle-5": {
+        "class": "bird",
+        "score": 0.9220830202102661
+    },
+    "turtle-6": {
+        "class": "bed",
+        "score": 0.14796903729438782
+    },
+    "turtle-7": {
+        "class": "bird",
+        "score": 0.22050751745700836
+    },
+    "turtle-8": {
+        "class": "person",
+        "score": 0.16707482933998108
+    },
+    "turtle-9": {
+        "class": "bird",
+        "score": 0.03559944033622742
+    },
+    "turtle-10": {
+        "class": "bird",
+        "score": 0.752032995223999
+    },
+    "turtle-11": {
+        "class": "person",
+        "score": 0.06098990887403488
+    },
+    "turtle-12": {
+        "class": "person",
+        "score": 0.22975566983222961
+    },
+    "turtle-13": {
+        "class": "kite",
+        "score": 0.2224850058555603
+    },
+    "turtle-14": {
+        "class": "kite",
+        "score": 0.5082458257675171
+    },
+    "turtle-15": {
+        "class": "teddy bear",
+        "score": 0.018358217552304268
+    },
+    "turtle-16": {
+        "class": "person",
+        "score": 0.005196899175643921
+    },
+    "turtle-17": {
+        "class": "bird",
+        "score": 0.7346899509429932
+    },
+    "turtle-18": {
+        "class": "bear",
+        "score": 0.009542453102767467
+    },
+    "turtle-19": {
+        "class": "elephant",
+        "score": 0.17648546397686005
+    },
+    "turtle-20": {
+        "class": "bird",
+        "score": 0.501926839351654
+    },
+    "cup-1": {
+        "class": "person",
+        "score": 0.8681779503822327
+    },
+    "cup-2": {
+        "class": "person",
+        "score": 0.960699200630188
+    },
+    "cup-3": {
+        "class": "person",
+        "score": 0.9618610739707947
+    },
+    "cup-4": {
+        "class": "person",
+        "score": 0.9791072010993958
+    },
+    "cup-5": {
+        "class": "person",
+        "score": 0.9445090293884277
+    },
+    "cup-6": {
+        "class": "cup",
+        "score": 0.7928170561790466
+    },
+    "cup-7": {
+        "class": "cup",
+        "score": 0.8997966647148132
+    },
+    "cup-8": {
+        "class": "cup",
+        "score": 0.441945344209671
+    },
+    "cup-9": {
+        "class": "cup",
+        "score": 0.7301341891288757
+    },
+    "cup-10": {
+        "class": "wine glass",
+        "score": 0.8520603775978088
+    },
+    "cup-11": {
+        "class": "diningtable",
+        "score": 0.8732761740684509
+    },
+    "cup-12": {
+        "class": "wine glass",
+        "score": 0.8438013792037964
+    },
+    "cup-13": {
+        "class": "cup",
+        "score": 0.6938607692718506
+    },
+    "cup-14": {
+        "class": "person",
+        "score": 0.9300451278686523
+    },
+    "cup-15": {
+        "class": "laptop",
+        "score": 0.466429740190506
+    },
+    "cup-16": {
+        "class": "cup",
+        "score": 0.8880527019500732
+    },
+    "cup-17": {
+        "class": "diningtable",
+        "score": 0.48436376452445984
+    },
+    "cup-18": {
+        "class": "bottle",
+        "score": 0.950007438659668
+    },
+    "cup-19": {
+        "class": "wine glass",
+        "score": 0.9086577892303467
+    },
+    "cup-20": {
+        "class": "diningtable",
+        "score": 0.8097356557846069
+    },
+    "licenseplate-1": {
+        "class": "car",
+        "score": 0.9069790840148926
+    },
+    "licenseplate-2": {
+        "class": "traffic light",
+        "score": 0.959126889705658
+    },
+    "licenseplate-3": {
+        "class": "car",
+        "score": 0.7536814212799072
+    },
+    "licenseplate-4": {
+        "class": "person",
+        "score": 0.8623829483985901
+    },
+    "licenseplate-5": {
+        "class": "car",
+        "score": 0.912863552570343
+    },
+    "licenseplate-6": {
+        "class": "car",
+        "score": 0.7085418701171875
+    },
+    "licenseplate-7": {
+        "class": "car",
+        "score": 0.6430931091308594
+    },
+    "licenseplate-8": {
+        "class": "car",
+        "score": 0.7872308492660522
+    },
+    "licenseplate-9": {
+        "class": "car",
+        "score": 0.8866416811943054
+    },
+    "licenseplate-10": {
+        "class": "truck",
+        "score": 0.9352700114250183
+    },
+    "licenseplate-11": {
+        "class": "car",
+        "score": 0.6043526530265808
+    },
+    "licenseplate-12": {
+        "class": "car",
+        "score": 0.5496948957443237
+    },
+    "licenseplate-13": {
+        "class": "truck",
+        "score": 0.8993738889694214
+    },
+    "licenseplate-14": {
+        "class": "traffic light",
+        "score": 0.8844588994979858
+    },
+    "licenseplate-15": {
+        "class": "truck",
+        "score": 0.9698871970176697
+    },
+    "licenseplate-16": {
+        "class": "truck",
+        "score": 0.9604352712631226
+    },
+    "licenseplate-17": {
+        "class": "car",
+        "score": 0.4686611294746399
+    },
+    "licenseplate-18": {
+        "class": "car",
+        "score": 0.8077372312545776
+    },
+    "licenseplate-19": {
+        "class": "car",
+        "score": 0.8770266175270081
+    },
+    "licenseplate-20": {
+        "class": "car",
+        "score": 0.9553247094154358
+    },
+    "coin-1": {
+        "class": "skateboard",
+        "score": 0.22206132113933563
+    },
+    "coin-2": {
+        "class": "stop sign",
+        "score": 0.2089240550994873
+    },
+    "coin-3": {
+        "class": "diningtable",
+        "score": 0.24976466596126556
+    },
+    "coin-4": {
+        "class": "sports ball",
+        "score": 0.0429118312895298
+    },
+    "coin-5": {
+        "class": "person",
+        "score": 0.7235639095306396
+    },
+    "coin-6": {
+        "class": "clock",
+        "score": 0.04186771810054779
+    },
+    "coin-7": {
+        "class": "bowl",
+        "score": 0.7690970301628113
+    },
+    "coin-8": {
+        "class": "person",
+        "score": 0.41327592730522156
+    },
+    "coin-9": {
+        "class": "person",
+        "score": 0.13489757478237152
+    },
+    "coin-10": {
+        "class": "person",
+        "score": 0.2062433362007141
+    },
+    "coin-11": {
+        "class": "donut",
+        "score": 0.4822175204753876
+    },
+    "coin-12": {
+        "class": "clock",
+        "score": 0.8173881769180298
+    },
+    "coin-13": {
+        "class": "cup",
+        "score": 0.6713118553161621
+    },
+    "coin-14": {
+        "class": "person",
+        "score": 0.614712119102478
+    },
+    "coin-15": {
+        "class": "person",
+        "score": 0.2816167175769806
+    },
+    "coin-16": {
+        "class": "diningtable",
+        "score": 0.840918779373169
+    },
+    "coin-17": {
+        "class": "clock",
+        "score": 0.17741303145885468
+    },
+    "coin-18": {
+        "class": "bowl",
+        "score": 0.24026840925216675
+    },
+    "coin-19": {
+        "class": "clock",
+        "score": 0.0749296098947525
+    },
+    "coin-20": {
+        "class": "diningtable",
+        "score": 0.22174714505672455
+    },
+    "giraffe-1": {
+        "class": "diningtable",
+        "score": 0.13463351130485535
+    },
+    "giraffe-2": {
+        "class": "giraffe",
+        "score": 0.9956690669059753
+    },
+    "giraffe-3": {
+        "class": "cow",
+        "score": 0.45935776829719543
+    },
+    "giraffe-4": {
+        "class": "giraffe",
+        "score": 0.7496593594551086
+    },
+    "giraffe-5": {
+        "class": "giraffe",
+        "score": 0.9724875688552856
+    },
+    "giraffe-6": {
+        "class": "giraffe",
+        "score": 0.9381324648857117
+    },
+    "giraffe-7": {
+        "class": "giraffe",
+        "score": 0.93666672706604
+    },
+    "giraffe-8": {
+        "class": "giraffe",
+        "score": 0.9733954071998596
+    },
+    "giraffe-9": {
+        "class": "giraffe",
+        "score": 0.984785795211792
+    },
+    "giraffe-10": {
+        "class": "giraffe",
+        "score": 0.9964878559112549
+    },
+    "giraffe-11": {
+        "class": "giraffe",
+        "score": 0.9054398536682129
+    },
+    "giraffe-12": {
+        "class": "elephant",
+        "score": 0.38884979486465454
+    },
+    "giraffe-13": {
+        "class": "horse",
+        "score": 0.43192392587661743
+    },
+    "giraffe-14": {
+        "class": "truck",
+        "score": 0.5326575636863708
+    },
+    "giraffe-15": {
+        "class": "giraffe",
+        "score": 0.9820295572280884
+    },
+    "giraffe-16": {
+        "class": "giraffe",
+        "score": 0.9637439250946045
+    },
+    "giraffe-17": {
+        "class": "giraffe",
+        "score": 0.213007852435112
+    },
+    "giraffe-18": {
+        "class": "giraffe",
+        "score": 0.9865955114364624
+    },
+    "giraffe-19": {
+        "class": "giraffe",
+        "score": 0.7931458950042725
+    },
+    "giraffe-20": {
+        "class": "giraffe",
+        "score": 0.7729607224464417
+    },
+    "person-1": {
+        "class": "person",
+        "score": 0.8351786136627197
+    },
+    "person-2": {
+        "class": "person",
+        "score": 0.8957675695419312
+    },
+    "person-3": {
+        "class": "person",
+        "score": 0.8607318997383118
+    },
+    "person-4": {
+        "class": "person",
+        "score": 0.9410435557365417
+    },
+    "person-5": {
+        "class": "person",
+        "score": 0.9463186860084534
+    },
+    "person-6": {
+        "class": "person",
+        "score": 0.8963257074356079
+    },
+    "person-7": {
+        "class": "person",
+        "score": 0.8824456334114075
+    },
+    "person-8": {
+        "class": "person",
+        "score": 0.9342997670173645
+    },
+    "person-9": {
+        "class": "person",
+        "score": 0.4119572341442108
+    },
+    "person-10": {
+        "class": "person",
+        "score": 0.7202132940292358
+    },
+    "person-11": {
+        "class": "person",
+        "score": 0.8982329368591309
+    },
+    "person-12": {
+        "class": "kite",
+        "score": 0.4672863483428955
+    },
+    "person-13": {
+        "class": "person",
+        "score": 0.9739350080490112
+    },
+    "person-14": {
+        "class": "person",
+        "score": 0.9785110950469971
+    },
+    "person-15": {
+        "class": "person",
+        "score": 0.5605138540267944
+    },
+    "person-16": {
+        "class": "person",
+        "score": 0.8815094828605652
+    },
+    "person-17": {
+        "class": "person",
+        "score": 0.9718981981277466
+    },
+    "person-18": {
+        "class": "person",
+        "score": 0.9091494679450989
+    },
+    "person-19": {
+        "class": "person",
+        "score": 0.9531545042991638
+    },
+    "person-20": {
+        "class": "person",
+        "score": 0.7598987817764282
+    },
+    "monkey-1": {
+        "class": "sheep",
+        "score": 0.42504623532295227
+    },
+    "monkey-2": {
+        "class": "bear",
+        "score": 0.32910963892936707
+    },
+    "monkey-3": {
+        "class": "person",
+        "score": 0.5042340755462646
+    },
+    "monkey-4": {
+        "class": "dog",
+        "score": 0.9799802899360657
+    },
+    "monkey-5": {
+        "class": "bear",
+        "score": 0.8345656991004944
+    },
+    "monkey-6": {
+        "class": "dog",
+        "score": 0.7813069820404053
+    },
+    "monkey-7": {
+        "class": "teddy bear",
+        "score": 0.3455812633037567
+    },
+    "monkey-8": {
+        "class": "person",
+        "score": 0.9355075359344482
+    },
+    "monkey-9": {
+        "class": "person",
+        "score": 0.10854800790548325
+    },
+    "monkey-10": {
+        "class": "person",
+        "score": 0.8583135008811951
+    },
+    "monkey-11": {
+        "class": "person",
+        "score": 0.9401288032531738
+    },
+    "monkey-12": {
+        "class": "bear",
+        "score": 0.8938726782798767
+    },
+    "monkey-13": {
+        "class": "person",
+        "score": 0.9941579103469849
+    },
+    "monkey-14": {
+        "class": "person",
+        "score": 0.8696948289871216
+    },
+    "monkey-15": {
+        "class": "person",
+        "score": 0.3129730820655823
+    },
+    "monkey-16": {
+        "class": "dog",
+        "score": 0.6963524222373962
+    },
+    "monkey-17": {
+        "class": "person",
+        "score": 0.9911393523216248
+    },
+    "monkey-18": {
+        "class": "person",
+        "score": 0.5336448550224304
+    },
+    "monkey-19": {
+        "class": "dog",
+        "score": 0.2389129400253296
+    },
+    "monkey-20": {
+        "class": "person",
+        "score": 0.9610178470611572
+    },
+    "robot-1": {
+        "class": "person",
+        "score": 0.9265305995941162
+    },
+    "robot-2": {
+        "class": "person",
+        "score": 0.32862383127212524
+    },
+    "robot-3": {
+        "class": "person",
+        "score": 0.3463939428329468
+    },
+    "robot-4": {
+        "class": "traffic light",
+        "score": 0.10973784327507019
+    },
+    "robot-5": {
+        "class": "traffic light",
+        "score": 0.2161429524421692
+    },
+    "robot-6": {
+        "class": "person",
+        "score": 0.14976312220096588
+    },
+    "robot-7": {
+        "class": "cup",
+        "score": 0.18079893290996552
+    },
+    "robot-8": {
+        "class": "person",
+        "score": 0.12859976291656494
+    },
+    "robot-9": {
+        "class": "person",
+        "score": 0.5928792357444763
+    },
+    "robot-10": {
+        "class": "boat",
+        "score": 0.4297732412815094
+    },
+    "robot-11": {
+        "class": "sports ball",
+        "score": 0.2326866239309311
+    },
+    "robot-12": {
+        "class": "person",
+        "score": 0.34749409556388855
+    },
+    "robot-13": {
+        "class": "person",
+        "score": 0.6695840358734131
+    },
+    "robot-14": {
+        "class": "clock",
+        "score": 0.5972228050231934
+    },
+    "robot-15": {
+        "class": "person",
+        "score": 0.8198186159133911
+    },
+    "robot-16": {
+        "class": "cell phone",
+        "score": 0.4163336753845215
+    },
+    "robot-17": {
+        "class": "bowl",
+        "score": 0.10831011831760406
+    },
+    "robot-18": {
+        "class": "fire hydrant",
+        "score": 0.18976517021656036
+    },
+    "robot-19": {
+        "class": "diningtable",
+        "score": 0.30582448840141296
+    },
+    "robot-20": {
+        "class": "person",
+        "score": 0.6247261762619019
+    },
+    "mouse-1": {
+        "class": "oven",
+        "score": 0.448322057723999
+    },
+    "mouse-2": {
+        "class": "cat",
+        "score": 0.4827052652835846
+    },
+    "mouse-3": {
+        "class": "person",
+        "score": 0.3730076253414154
+    },
+    "mouse-4": {
+        "class": "cat",
+        "score": 0.1220179870724678
+    },
+    "mouse-5": {
+        "class": "bird",
+        "score": 0.8180060386657715
+    },
+    "mouse-6": {
+        "class": "bicycle",
+        "score": 0.21071702241897583
+    },
+    "mouse-7": {
+        "class": "person",
+        "score": 0.227094829082489
+    },
+    "mouse-8": {
+        "class": "dog",
+        "score": 0.1987706869840622
+    },
+    "mouse-9": {
+        "class": "bird",
+        "score": 0.3675179183483124
+    },
+    "mouse-10": {
+        "class": "bird",
+        "score": 0.06956960260868073
+    },
+    "mouse-11": {
+        "class": "dog",
+        "score": 0.7231954336166382
+    },
+    "mouse-12": {
+        "class": "cat",
+        "score": 0.7514802813529968
+    },
+    "mouse-13": {
+        "class": "person",
+        "score": 0.06673181056976318
+    },
+    "mouse-14": {
+        "class": "cat",
+        "score": 0.28029459714889526
+    },
+    "mouse-15": {
+        "class": "kite",
+        "score": 0.05438508838415146
+    },
+    "mouse-16": {
+        "class": "bowl",
+        "score": 0.3564543128013611
+    },
+    "mouse-17": {
+        "class": "person",
+        "score": 0.12494811415672302
+    },
+    "mouse-18": {
+        "class": "bed",
+        "score": 0.08955568820238113
+    },
+    "mouse-19": {
+        "class": "cat",
+        "score": 0.6467496752738953
+    },
+    "mouse-20": {
+        "class": "bird",
+        "score": 0.6867577433586121
+    },
+    "basketball-1": {
+        "class": "person",
+        "score": 0.8041403293609619
+    },
+    "basketball-2": {
+        "class": "person",
+        "score": 0.8682123422622681
+    },
+    "basketball-3": {
+        "class": "person",
+        "score": 0.9565528631210327
+    },
+    "basketball-4": {
+        "class": "person",
+        "score": 0.9419434070587158
+    },
+    "basketball-5": {
+        "class": "person",
+        "score": 0.8764514327049255
+    },
+    "basketball-6": {
+        "class": "person",
+        "score": 0.8926680684089661
+    },
+    "basketball-7": {
+        "class": "person",
+        "score": 0.9575498700141907
+    },
+    "basketball-8": {
+        "class": "person",
+        "score": 0.9878478646278381
+    },
+    "basketball-9": {
+        "class": "person",
+        "score": 0.9944238066673279
+    },
+    "basketball-10": {
+        "class": "person",
+        "score": 0.49291953444480896
+    },
+    "basketball-11": {
+        "class": "person",
+        "score": 0.7138218879699707
+    },
+    "basketball-12": {
+        "class": "person",
+        "score": 0.9880907535552979
+    },
+    "basketball-13": {
+        "class": "bird",
+        "score": 0.593442976474762
+    },
+    "basketball-14": {
+        "class": "person",
+        "score": 0.9657126665115356
+    },
+    "basketball-15": {
+        "class": "person",
+        "score": 0.9497449398040771
+    },
+    "basketball-16": {
+        "class": "person",
+        "score": 0.7520691156387329
+    },
+    "basketball-17": {
+        "class": "person",
+        "score": 0.9207157492637634
+    },
+    "basketball-18": {
+        "class": "person",
+        "score": 0.9871650338172913
+    },
+    "basketball-19": {
+        "class": "person",
+        "score": 0.9650135636329651
+    },
+    "basketball-20": {
+        "class": "person",
+        "score": 0.8938793540000916
+    },
+    "drone-1": {
+        "class": "tvmonitor",
+        "score": 0.48201921582221985
+    },
+    "drone-2": {
+        "class": "aeroplane",
+        "score": 0.13899551331996918
+    },
+    "drone-3": {
+        "class": "bottle",
+        "score": 0.19915205240249634
+    },
+    "drone-4": {
+        "class": "person",
+        "score": 0.9497824907302856
+    },
+    "drone-5": {
+        "class": "person",
+        "score": 0.7820536494255066
+    },
+    "drone-6": {
+        "class": "toilet",
+        "score": 0.13802987337112427
+    },
+    "drone-7": {
+        "class": "microwave",
+        "score": 0.8559353351593018
+    },
+    "drone-8": {
+        "class": "dog",
+        "score": 0.6390520930290222
+    },
+    "drone-9": {
+        "class": "bird",
+        "score": 0.4697187840938568
+    },
+    "drone-10": {
+        "class": "aeroplane",
+        "score": 0.6894940733909607
+    },
+    "drone-11": {
+        "class": "person",
+        "score": 0.30789077281951904
+    },
+    "drone-12": {
+        "class": "bench",
+        "score": 0.3571651875972748
+    },
+    "drone-13": {
+        "class": "keyboard",
+        "score": 0.4912796914577484
+    },
+    "drone-14": {
+        "class": "car",
+        "score": 0.8731613159179688
+    },
+    "drone-15": {
+        "class": "bench",
+        "score": 0.35346275568008423
+    },
+    "drone-16": {
+        "class": "person",
+        "score": 0.26592761278152466
+    },
+    "drone-17": {
+        "class": "bird",
+        "score": 0.21118299663066864
+    },
+    "drone-18": {
+        "class": "person",
+        "score": 0.3942925035953522
+    },
+    "drone-19": {
+        "class": "aeroplane",
+        "score": 0.18244889378547668
+    },
+    "drone-20": {
+        "class": "person",
+        "score": 0.22228160500526428
+    },
+    "dog-1": {
+        "class": "person",
+        "score": 0.9887042045593262
+    },
+    "dog-2": {
+        "class": "dog",
+        "score": 0.4651399254798889
+    },
+    "dog-3": {
+        "class": "elephant",
+        "score": 0.9875497817993164
+    },
+    "dog-4": {
+        "class": "cow",
+        "score": 0.7671401500701904
+    },
+    "dog-5": {
+        "class": "sheep",
+        "score": 0.4353424906730652
+    },
+    "dog-6": {
+        "class": "person",
+        "score": 0.988600492477417
+    },
+    "dog-7": {
+        "class": "dog",
+        "score": 0.9665178060531616
+    },
+    "dog-8": {
+        "class": "dog",
+        "score": 0.9429051876068115
+    },
+    "dog-9": {
+        "class": "car",
+        "score": 0.7846851944923401
+    },
+    "dog-10": {
+        "class": "dog",
+        "score": 0.49998679757118225
+    },
+    "dog-11": {
+        "class": "dog",
+        "score": 0.7651888728141785
+    },
+    "dog-12": {
+        "class": "aeroplane",
+        "score": 0.5409621000289917
+    },
+    "dog-13": {
+        "class": "cow",
+        "score": 0.550456702709198
+    },
+    "dog-14": {
+        "class": "bird",
+        "score": 0.4023723006248474
+    },
+    "dog-15": {
+        "class": "dog",
+        "score": 0.6997203230857849
+    },
+    "dog-16": {
+        "class": "cat",
+        "score": 0.6386816501617432
+    },
+    "dog-17": {
+        "class": "dog",
+        "score": 0.8377243280410767
+    },
+    "dog-18": {
+        "class": "cat",
+        "score": 0.4897800087928772
+    },
+    "dog-19": {
+        "class": "bird",
+        "score": 0.9333042502403259
+    },
+    "dog-20": {
+        "class": "boat",
+        "score": 0.19955365359783173
+    },
+    "boat-1": {
+        "class": "boat",
+        "score": 0.911466121673584
+    },
+    "boat-2": {
+        "class": "boat",
+        "score": 0.8396816849708557
+    },
+    "boat-3": {
+        "class": "truck",
+        "score": 0.24008841812610626
+    },
+    "boat-4": {
+        "class": "boat",
+        "score": 0.7497220039367676
+    },
+    "boat-5": {
+        "class": "person",
+        "score": 0.46118006110191345
+    },
+    "boat-6": {
+        "class": "person",
+        "score": 0.9423524737358093
+    },
+    "boat-7": {
+        "class": "person",
+        "score": 0.8227326273918152
+    },
+    "boat-8": {
+        "class": "boat",
+        "score": 0.3694900870323181
+    },
+    "boat-9": {
+        "class": "boat",
+        "score": 0.6168903112411499
+    },
+    "boat-10": {
+        "class": "kite",
+        "score": 0.9148043990135193
+    },
+    "boat-11": {
+        "class": "car",
+        "score": 0.32470932602882385
+    },
+    "boat-12": {
+        "class": "boat",
+        "score": 0.6865143775939941
+    },
+    "boat-13": {
+        "class": "boat",
+        "score": 0.9841841459274292
+    },
+    "boat-14": {
+        "class": "boat",
+        "score": 0.513944149017334
+    },
+    "boat-15": {
+        "class": "person",
+        "score": 0.8923671245574951
+    },
+    "boat-16": {
+        "class": "boat",
+        "score": 0.1942031979560852
+    },
+    "boat-17": {
+        "class": "aeroplane",
+        "score": 0.030553311109542847
+    },
+    "boat-18": {
+        "class": "boat",
+        "score": 0.700300931930542
+    },
+    "boat-19": {
+        "class": "boat",
+        "score": 0.13314981758594513
+    },
+    "boat-20": {
+        "class": "person",
+        "score": 0.4121856987476349
+    },
+    "bicycle-1": {
+        "class": "person",
+        "score": 0.969970166683197
+    },
+    "bicycle-2": {
+        "class": "person",
+        "score": 0.9014559984207153
+    },
+    "bicycle-3": {
+        "class": "bicycle",
+        "score": 0.7959192991256714
+    },
+    "bicycle-4": {
+        "class": "person",
+        "score": 0.8987903594970703
+    },
+    "bicycle-5": {
+        "class": "person",
+        "score": 0.8177466988563538
+    },
+    "bicycle-6": {
+        "class": "car",
+        "score": 0.9304280281066895
+    },
+    "bicycle-7": {
+        "class": "bicycle",
+        "score": 0.7490925788879395
+    },
+    "bicycle-8": {
+        "class": "car",
+        "score": 0.7173289656639099
+    },
+    "bicycle-9": {
+        "class": "bicycle",
+        "score": 0.942776083946228
+    },
+    "bicycle-10": {
+        "class": "person",
+        "score": 0.9890769124031067
+    },
+    "bicycle-11": {
+        "class": "person",
+        "score": 0.7908288836479187
+    },
+    "bicycle-12": {
+        "class": "person",
+        "score": 0.9906360507011414
+    },
+    "bicycle-13": {
+        "class": "person",
+        "score": 0.7400640845298767
+    },
+    "bicycle-14": {
+        "class": "person",
+        "score": 0.9255040884017944
+    },
+    "bicycle-15": {
+        "class": "bicycle",
+        "score": 0.9463574886322021
+    },
+    "bicycle-16": {
+        "class": "person",
+        "score": 0.29665449261665344
+    },
+    "bicycle-17": {
+        "class": "person",
+        "score": 0.1406717747449875
+    },
+    "bicycle-18": {
+        "class": "person",
+        "score": 0.9034069776535034
+    },
+    "bicycle-19": {
+        "class": "bicycle",
+        "score": 0.9836962819099426
+    },
+    "bicycle-20": {
+        "class": "person",
+        "score": 0.934744119644165
+    },
+    "sheep-1": {
+        "class": "cow",
+        "score": 0.9665296673774719
+    },
+    "sheep-2": {
+        "class": "sheep",
+        "score": 0.9071251749992371
+    },
+    "sheep-3": {
+        "class": "sheep",
+        "score": 0.9574869275093079
+    },
+    "sheep-4": {
+        "class": "person",
+        "score": 0.023470275104045868
+    },
+    "sheep-5": {
+        "class": "sheep",
+        "score": 0.7808871865272522
+    },
+    "sheep-6": {
+        "class": "cow",
+        "score": 0.6504934430122375
+    },
+    "sheep-7": {
+        "class": "sheep",
+        "score": 0.8950842618942261
+    },
+    "sheep-8": {
+        "class": "sheep",
+        "score": 0.9460828900337219
+    },
+    "sheep-9": {
+        "class": "sheep",
+        "score": 0.9422764182090759
+    },
+    "sheep-10": {
+        "class": "sheep",
+        "score": 0.7606448531150818
+    },
+    "sheep-11": {
+        "class": "sheep",
+        "score": 0.21936586499214172
+    },
+    "sheep-12": {
+        "class": "sheep",
+        "score": 0.8983509540557861
+    },
+    "sheep-13": {
+        "class": "cow",
+        "score": 0.41687601804733276
+    },
+    "sheep-14": {
+        "class": "sheep",
+        "score": 0.7819933295249939
+    },
+    "sheep-15": {
+        "class": "sheep",
+        "score": 0.7659326195716858
+    },
+    "sheep-16": {
+        "class": "person",
+        "score": 0.7458394169807434
+    },
+    "sheep-17": {
+        "class": "sheep",
+        "score": 0.6472800374031067
+    },
+    "sheep-18": {
+        "class": "sheep",
+        "score": 0.9574040174484253
+    },
+    "sheep-19": {
+        "class": "sheep",
+        "score": 0.8067337870597839
+    },
+    "sheep-20": {
+        "class": "sheep",
+        "score": 0.8465421795845032
+    },
+    "skateboard-1": {
+        "class": "person",
+        "score": 0.9742335677146912
+    },
+    "skateboard-2": {
+        "class": "person",
+        "score": 0.9305581450462341
+    },
+    "skateboard-3": {
+        "class": "person",
+        "score": 0.8245849609375
+    },
+    "skateboard-4": {
+        "class": "person",
+        "score": 0.5606297254562378
+    },
+    "skateboard-5": {
+        "class": "person",
+        "score": 0.36357781291007996
+    },
+    "skateboard-6": {
+        "class": "person",
+        "score": 0.9214476943016052
+    },
+    "skateboard-7": {
+        "class": "person",
+        "score": 0.3411344885826111
+    },
+    "skateboard-8": {
+        "class": "skateboard",
+        "score": 0.9184805750846863
+    },
+    "skateboard-9": {
+        "class": "person",
+        "score": 0.9582587480545044
+    },
+    "skateboard-10": {
+        "class": "person",
+        "score": 0.9804704189300537
+    },
+    "skateboard-11": {
+        "class": "skateboard",
+        "score": 0.9737245440483093
+    },
+    "skateboard-12": {
+        "class": "person",
+        "score": 0.8397502303123474
+    },
+    "skateboard-13": {
+        "class": "person",
+        "score": 0.9340556859970093
+    },
+    "skateboard-14": {
+        "class": "person",
+        "score": 0.8955668807029724
+    },
+    "skateboard-15": {
+        "class": "person",
+        "score": 0.9064512848854065
+    },
+    "skateboard-16": {
+        "class": "person",
+        "score": 0.7898150086402893
+    },
+    "skateboard-17": {
+        "class": "skateboard",
+        "score": 0.9028823375701904
+    },
+    "skateboard-18": {
+        "class": "person",
+        "score": 0.9802057147026062
+    },
+    "skateboard-19": {
+        "class": "person",
+        "score": 0.6475293040275574
+    },
+    "skateboard-20": {
+        "class": "skateboard",
+        "score": 0.8260663747787476
+    },
+    "car-1": {
+        "class": "car",
+        "score": 0.9625293612480164
+    },
+    "car-2": {
+        "class": "car",
+        "score": 0.7490983009338379
+    },
+    "car-3": {
+        "class": "car",
+        "score": 0.941495954990387
+    },
+    "car-4": {
+        "class": "car",
+        "score": 0.36247342824935913
+    },
+    "car-5": {
+        "class": "car",
+        "score": 0.7493790984153748
+    },
+    "car-6": {
+        "class": "car",
+        "score": 0.929305911064148
+    },
+    "car-7": {
+        "class": "car",
+        "score": 0.9694707989692688
+    },
+    "car-8": {
+        "class": "car",
+        "score": 0.5459641814231873
+    },
+    "car-9": {
+        "class": "car",
+        "score": 0.6836602091789246
+    },
+    "car-10": {
+        "class": "traffic light",
+        "score": 0.9547634124755859
+    },
+    "car-11": {
+        "class": "car",
+        "score": 0.6638622879981995
+    },
+    "car-12": {
+        "class": "car",
+        "score": 0.9681956171989441
+    },
+    "car-13": {
+        "class": "car",
+        "score": 0.9256377220153809
+    },
+    "car-14": {
+        "class": "aeroplane",
+        "score": 0.2656079828739166
+    },
+    "car-15": {
+        "class": "car",
+        "score": 0.5981221795082092
+    },
+    "car-16": {
+        "class": "car",
+        "score": 0.7430492043495178
+    },
+    "car-17": {
+        "class": "car",
+        "score": 0.4914145767688751
+    },
+    "car-18": {
+        "class": "car",
+        "score": 0.13966043293476105
+    },
+    "car-19": {
+        "class": "car",
+        "score": 0.06539703160524368
+    },
+    "car-20": {
+        "class": "car",
+        "score": 0.9801738262176514
+    },
+    "surfboard-1": {
+        "class": "person",
+        "score": 0.9937384128570557
+    },
+    "surfboard-2": {
+        "class": "person",
+        "score": 0.9567426443099976
+    },
+    "surfboard-3": {
+        "class": "person",
+        "score": 0.6112903952598572
+    },
+    "surfboard-4": {
+        "class": "surfboard",
+        "score": 0.3105989396572113
+    },
+    "surfboard-5": {
+        "class": "person",
+        "score": 0.5597109198570251
+    },
+    "surfboard-6": {
+        "class": "surfboard",
+        "score": 0.7150028347969055
+    },
+    "surfboard-7": {
+        "class": "person",
+        "score": 0.5643117427825928
+    },
+    "surfboard-8": {
+        "class": "person",
+        "score": 0.9872579574584961
+    },
+    "surfboard-9": {
+        "class": "person",
+        "score": 0.8628541231155396
+    },
+    "surfboard-10": {
+        "class": "person",
+        "score": 0.44348761439323425
+    },
+    "surfboard-11": {
+        "class": "surfboard",
+        "score": 0.1604761779308319
+    },
+    "surfboard-12": {
+        "class": "boat",
+        "score": 0.37803176045417786
+    },
+    "surfboard-13": {
+        "class": "person",
+        "score": 0.9042560458183289
+    },
+    "surfboard-14": {
+        "class": "person",
+        "score": 0.5971406102180481
+    },
+    "surfboard-15": {
+        "class": "person",
+        "score": 0.6402381658554077
+    },
+    "surfboard-16": {
+        "class": "person",
+        "score": 0.684242308139801
+    },
+    "surfboard-17": {
+        "class": "surfboard",
+        "score": 0.45648786425590515
+    },
+    "surfboard-18": {
+        "class": "bird",
+        "score": 0.7711062431335449
+    },
+    "surfboard-19": {
+        "class": "person",
+        "score": 0.741142749786377
+    },
+    "surfboard-20": {
+        "class": "aeroplane",
+        "score": 0.27507007122039795
+    },
+    "bottle-1": {
+        "class": "person",
+        "score": 0.5535533428192139
+    },
+    "bottle-2": {
+        "class": "person",
+        "score": 0.49889862537384033
+    },
+    "bottle-3": {
+        "class": "person",
+        "score": 0.9204122424125671
+    },
+    "bottle-4": {
+        "class": "person",
+        "score": 0.9967451691627502
+    },
+    "bottle-5": {
+        "class": "person",
+        "score": 0.9189998507499695
+    },
+    "bottle-6": {
+        "class": "bottle",
+        "score": 0.9869568347930908
+    },
+    "bottle-7": {
+        "class": "bottle",
+        "score": 0.5224829316139221
+    },
+    "bottle-8": {
+        "class": "bottle",
+        "score": 0.5577480792999268
+    },
+    "bottle-9": {
+        "class": "cat",
+        "score": 0.617887020111084
+    },
+    "bottle-10": {
+        "class": "person",
+        "score": 0.9494864344596863
+    },
+    "bottle-11": {
+        "class": "bottle",
+        "score": 0.24936850368976593
+    },
+    "bottle-12": {
+        "class": "person",
+        "score": 0.7915199995040894
+    },
+    "bottle-13": {
+        "class": "toilet",
+        "score": 0.43543484807014465
+    },
+    "bottle-14": {
+        "class": "diningtable",
+        "score": 0.9264774918556213
+    },
+    "bottle-15": {
+        "class": "bottle",
+        "score": 0.9276551604270935
+    },
+    "bottle-16": {
+        "class": "person",
+        "score": 0.9654971361160278
+    },
+    "bottle-17": {
+        "class": "person",
+        "score": 0.9887043833732605
+    },
+    "bottle-18": {
+        "class": "frisbee",
+        "score": 0.03746458888053894
+    },
+    "bottle-19": {
+        "class": "bottle",
+        "score": 0.9406291246414185
+    },
+    "bottle-20": {
+        "class": "bottle",
+        "score": 0.8811915516853333
+    },
+    "truck-1": {
+        "class": "boat",
+        "score": 0.14300976693630219
+    },
+    "truck-2": {
+        "class": "car",
+        "score": 0.43930763006210327
+    },
+    "truck-3": {
+        "class": "truck",
+        "score": 0.8712732195854187
+    },
+    "truck-4": {
+        "class": "car",
+        "score": 0.8345611095428467
+    },
+    "truck-5": {
+        "class": "truck",
+        "score": 0.3603114187717438
+    },
+    "truck-6": {
+        "class": "car",
+        "score": 0.7590158581733704
+    },
+    "truck-7": {
+        "class": "truck",
+        "score": 0.25003209710121155
+    },
+    "truck-8": {
+        "class": "car",
+        "score": 0.4852294325828552
+    },
+    "truck-9": {
+        "class": "person",
+        "score": 0.2653406262397766
+    },
+    "truck-10": {
+        "class": "truck",
+        "score": 0.9130303859710693
+    },
+    "truck-11": {
+        "class": "car",
+        "score": 0.8241329789161682
+    },
+    "truck-12": {
+        "class": "car",
+        "score": 0.7379637360572815
+    },
+    "truck-13": {
+        "class": "car",
+        "score": 0.6238008141517639
+    },
+    "truck-14": {
+        "class": "truck",
+        "score": 0.9492836594581604
+    },
+    "truck-15": {
+        "class": "car",
+        "score": 0.5895758271217346
+    },
+    "truck-16": {
+        "class": "car",
+        "score": 0.8740920424461365
+    },
+    "truck-17": {
+        "class": "car",
+        "score": 0.7585991024971008
+    },
+    "truck-18": {
+        "class": "car",
+        "score": 0.32985350489616394
+    },
+    "truck-19": {
+        "class": "car",
+        "score": 0.500643789768219
+    },
+    "truck-20": {
+        "class": "car",
+        "score": 0.4832916259765625
+    },
+    "train-1": {
+        "class": "aeroplane",
+        "score": 0.09391723573207855
+    },
+    "train-2": {
+        "class": "car",
+        "score": 0.36712685227394104
+    },
+    "train-3": {
+        "class": "train",
+        "score": 0.47996312379837036
+    },
+    "train-4": {
+        "class": "train",
+        "score": 0.21804139018058777
+    },
+    "train-5": {
+        "class": "train",
+        "score": 0.05717236176133156
+    },
+    "train-6": {
+        "class": "car",
+        "score": 0.3012087047100067
+    },
+    "train-7": {
+        "class": "truck",
+        "score": 0.10140462964773178
+    },
+    "train-8": {
+        "class": "person",
+        "score": 0.08229725062847137
+    },
+    "train-9": {
+        "class": "cow",
+        "score": 0.41101759672164917
+    },
+    "train-10": {
+        "class": "boat",
+        "score": 0.12316511571407318
+    },
+    "train-11": {
+        "class": "car",
+        "score": 0.21337257325649261
+    },
+    "train-12": {
+        "class": "train",
+        "score": 0.9613266587257385
+    },
+    "train-13": {
+        "class": "train",
+        "score": 0.9181278944015503
+    },
+    "train-14": {
+        "class": "train",
+        "score": 0.6253392100334167
+    },
+    "train-15": {
+        "class": "bird",
+        "score": 0.008431327529251575
+    },
+    "train-16": {
+        "class": "train",
+        "score": 0.8334742784500122
+    },
+    "train-17": {
+        "class": "train",
+        "score": 0.8797305822372437
+    },
+    "train-18": {
+        "class": "train",
+        "score": 0.5805209875106812
+    },
+    "train-19": {
+        "class": "car",
+        "score": 0.37649428844451904
+    },
+    "train-20": {
+        "class": "train",
+        "score": 0.2728464603424072
+    },
+    "bird-1": {
+        "class": "person",
+        "score": 0.16101719439029694
+    },
+    "bird-2": {
+        "class": "person",
+        "score": 0.8801392912864685
+    },
+    "bird-3": {
+        "class": "bird",
+        "score": 0.7817392945289612
+    },
+    "bird-4": {
+        "class": "cat",
+        "score": 0.6898237466812134
+    },
+    "bird-5": {
+        "class": "bird",
+        "score": 0.6395754218101501
+    },
+    "bird-6": {
+        "class": "dog",
+        "score": 0.5956042408943176
+    },
+    "bird-7": {
+        "class": "bird",
+        "score": 0.7220851182937622
+    },
+    "bird-8": {
+        "class": "bear",
+        "score": 0.6607427597045898
+    },
+    "bird-9": {
+        "class": "bird",
+        "score": 0.6865986585617065
+    },
+    "bird-10": {
+        "class": "pottedplant",
+        "score": 0.3114016056060791
+    },
+    "bird-11": {
+        "class": "bird",
+        "score": 0.559495747089386
+    },
+    "bird-12": {
+        "class": "bird",
+        "score": 0.501895010471344
+    },
+    "bird-13": {
+        "class": "dog",
+        "score": 0.27703961730003357
+    },
+    "bird-14": {
+        "class": "bird",
+        "score": 0.4225456118583679
+    },
+    "bird-15": {
+        "class": "person",
+        "score": 0.8585978746414185
+    },
+    "bird-16": {
+        "class": "bird",
+        "score": 0.5955226421356201
+    },
+    "bird-17": {
+        "class": "bird",
+        "score": 0.6337754726409912
+    },
+    "bird-18": {
+        "class": "bird",
+        "score": 0.5217787027359009
+    },
+    "bird-19": {
+        "class": "bird",
+        "score": 0.8845005035400391
+    },
+    "bird-20": {
+        "class": "bird",
+        "score": 0.9276339411735535
+    },
+    "kangaroo-1": {
+        "class": "sheep",
+        "score": 0.6197633147239685
+    },
+    "kangaroo-2": {
+        "class": "person",
+        "score": 0.9145775437355042
+    },
+    "kangaroo-3": {
+        "class": "person",
+        "score": 0.8667422533035278
+    },
+    "kangaroo-4": {
+        "class": "person",
+        "score": 0.6662485599517822
+    },
+    "kangaroo-5": {
+        "class": "person",
+        "score": 0.7531560063362122
+    },
+    "kangaroo-6": {
+        "class": "sheep",
+        "score": 0.7518818378448486
+    },
+    "kangaroo-7": {
+        "class": "sheep",
+        "score": 0.40522608160972595
+    },
+    "kangaroo-8": {
+        "class": "bird",
+        "score": 0.8250674605369568
+    },
+    "kangaroo-9": {
+        "class": "person",
+        "score": 0.832810640335083
+    },
+    "kangaroo-10": {
+        "class": "dog",
+        "score": 0.6937345862388611
+    },
+    "kangaroo-11": {
+        "class": "person",
+        "score": 0.9233012199401855
+    },
+    "kangaroo-12": {
+        "class": "dog",
+        "score": 0.5672503709793091
+    },
+    "kangaroo-13": {
+        "class": "dog",
+        "score": 0.994214653968811
+    },
+    "kangaroo-14": {
+        "class": "cow",
+        "score": 0.4634532630443573
+    },
+    "kangaroo-15": {
+        "class": "sofa",
+        "score": 0.8265203237533569
+    },
+    "kangaroo-16": {
+        "class": "sheep",
+        "score": 0.6011444330215454
+    },
+    "kangaroo-17": {
+        "class": "person",
+        "score": 0.986680269241333
+    },
+    "kangaroo-18": {
+        "class": "elephant",
+        "score": 0.48459598422050476
+    },
+    "kangaroo-19": {
+        "class": "car",
+        "score": 0.31365498900413513
+    },
+    "kangaroo-20": {
+        "class": "dog",
+        "score": 0.8290348052978516
+    },
+    "bear-1": {
+        "class": "cat",
+        "score": 0.3372053802013397
+    },
+    "bear-2": {
+        "class": "bear",
+        "score": 0.9355244040489197
+    },
+    "bear-3": {
+        "class": "bear",
+        "score": 0.9814201593399048
+    },
+    "bear-4": {
+        "class": "bench",
+        "score": 0.5881309509277344
+    },
+    "bear-5": {
+        "class": "elephant",
+        "score": 0.9248499274253845
+    },
+    "bear-6": {
+        "class": "elephant",
+        "score": 0.8982958793640137
+    },
+    "bear-7": {
+        "class": "bear",
+        "score": 0.9772788882255554
+    },
+    "bear-8": {
+        "class": "sheep",
+        "score": 0.8309910893440247
+    },
+    "bear-9": {
+        "class": "bear",
+        "score": 0.6758871078491211
+    },
+    "bear-10": {
+        "class": "bear",
+        "score": 0.5064305067062378
+    },
+    "bear-11": {
+        "class": "bird",
+        "score": 0.009239165112376213
+    },
+    "bear-12": {
+        "class": "sheep",
+        "score": 0.3975478708744049
+    },
+    "bear-13": {
+        "class": "bird",
+        "score": 0.2359328716993332
+    },
+    "bear-14": {
+        "class": "person",
+        "score": 0.8774089813232422
+    },
+    "bear-15": {
+        "class": "bear",
+        "score": 0.6142978072166443
+    },
+    "bear-16": {
+        "class": "person",
+        "score": 0.8159568905830383
+    },
+    "bear-17": {
+        "class": "elephant",
+        "score": 0.7226093411445618
+    },
+    "bear-18": {
+        "class": "elephant",
+        "score": 0.35408449172973633
+    },
+    "bear-19": {
+        "class": "bear",
+        "score": 0.9370136857032776
+    },
+    "bear-20": {
+        "class": "bear",
+        "score": 0.6510050892829895
+    },
+    "hippo-1": {
+        "class": "bear",
+        "score": 0.3035828769207001
+    },
+    "hippo-2": {
+        "class": "bear",
+        "score": 0.8054913282394409
+    },
+    "hippo-3": {
+        "class": "bird",
+        "score": 0.0919872522354126
+    },
+    "hippo-4": {
+        "class": "person",
+        "score": 0.3409074544906616
+    },
+    "hippo-5": {
+        "class": "elephant",
+        "score": 0.3718787729740143
+    },
+    "hippo-6": {
+        "class": "elephant",
+        "score": 0.5787261128425598
+    },
+    "hippo-7": {
+        "class": "car",
+        "score": 0.811911940574646
+    },
+    "hippo-8": {
+        "class": "cow",
+        "score": 0.10735846310853958
+    },
+    "hippo-9": {
+        "class": "surfboard",
+        "score": 0.03894731402397156
+    },
+    "hippo-10": {
+        "class": "bear",
+        "score": 0.8617727756500244
+    },
+    "hippo-11": {
+        "class": "sheep",
+        "score": 0.8058347105979919
+    },
+    "hippo-12": {
+        "class": "cake",
+        "score": 0.00836995244026184
+    },
+    "hippo-13": {
+        "class": "elephant",
+        "score": 0.763955295085907
+    },
+    "hippo-14": {
+        "class": "bear",
+        "score": 0.49093419313430786
+    },
+    "hippo-15": {
+        "class": "boat",
+        "score": 0.7507721185684204
+    },
+    "hippo-16": {
+        "class": "cow",
+        "score": 0.8110087513923645
+    },
+    "hippo-17": {
+        "class": "bird",
+        "score": 0.8235955834388733
+    },
+    "hippo-18": {
+        "class": "cow",
+        "score": 0.2959568500518799
+    },
+    "hippo-19": {
+        "class": "boat",
+        "score": 0.11560060828924179
+    },
+    "hippo-20": {
+        "class": "bear",
+        "score": 0.9246998429298401
+    },
+    "crocodile-1": {
+        "class": "dog",
+        "score": 0.20997880399227142
+    },
+    "crocodile-2": {
+        "class": "person",
+        "score": 0.5066819787025452
+    },
+    "crocodile-3": {
+        "class": "cup",
+        "score": 0.17083843052387238
+    },
+    "crocodile-4": {
+        "class": "bird",
+        "score": 0.3704654276371002
+    },
+    "crocodile-5": {
+        "class": "bird",
+        "score": 0.3028867542743683
+    },
+    "crocodile-6": {
+        "class": "cake",
+        "score": 0.3795895576477051
+    },
+    "crocodile-7": {
+        "class": "sandwich",
+        "score": 0.1160845085978508
+    },
+    "crocodile-8": {
+        "class": "bottle",
+        "score": 0.7117395401000977
+    },
+    "crocodile-9": {
+        "class": "bird",
+        "score": 0.14612114429473877
+    },
+    "crocodile-10": {
+        "class": "bird",
+        "score": 0.09518757462501526
+    },
+    "crocodile-11": {
+        "class": "car",
+        "score": 0.37956127524375916
+    },
+    "crocodile-12": {
+        "class": "bird",
+        "score": 0.09552524238824844
+    },
+    "crocodile-13": {
+        "class": "person",
+        "score": 0.21070744097232819
+    },
+    "crocodile-14": {
+        "class": "person",
+        "score": 0.8094239830970764
+    },
+    "crocodile-15": {
+        "class": "person",
+        "score": 0.7982077598571777
+    },
+    "crocodile-16": {
+        "class": "bear",
+        "score": 0.869728684425354
+    },
+    "crocodile-17": {
+        "class": "bear",
+        "score": 0.01404670998454094
+    },
+    "crocodile-18": {
+        "class": "broccoli",
+        "score": 0.21359829604625702
+    },
+    "crocodile-19": {
+        "class": "dog",
+        "score": 0.7178263664245605
+    },
+    "crocodile-20": {
+        "class": "person",
+        "score": 0.209706649184227
+    },
+    "airplane-1": {
+        "class": "person",
+        "score": 0.5529397130012512
+    },
+    "airplane-2": {
+        "class": "aeroplane",
+        "score": 0.7324860095977783
+    },
+    "airplane-3": {
+        "class": "aeroplane",
+        "score": 0.22867915034294128
+    },
+    "airplane-4": {
+        "class": "person",
+        "score": 0.682661235332489
+    },
+    "airplane-5": {
+        "class": "aeroplane",
+        "score": 0.6668044328689575
+    },
+    "airplane-6": {
+        "class": "person",
+        "score": 0.7873789072036743
+    },
+    "airplane-7": {
+        "class": "car",
+        "score": 0.5032961368560791
+    },
+    "airplane-8": {
+        "class": "aeroplane",
+        "score": 0.8591944575309753
+    },
+    "airplane-9": {
+        "class": "aeroplane",
+        "score": 0.6064446568489075
+    },
+    "airplane-10": {
+        "class": "aeroplane",
+        "score": 0.5994709134101868
+    },
+    "airplane-11": {
+        "class": "kite",
+        "score": 0.5986052751541138
+    },
+    "airplane-12": {
+        "class": "truck",
+        "score": 0.18355926871299744
+    },
+    "airplane-13": {
+        "class": "boat",
+        "score": 0.6801888346672058
+    },
+    "airplane-14": {
+        "class": "aeroplane",
+        "score": 0.2618286609649658
+    },
+    "airplane-15": {
+        "class": "aeroplane",
+        "score": 0.9370136857032776
+    },
+    "airplane-16": {
+        "class": "aeroplane",
+        "score": 0.5668846368789673
+    },
+    "airplane-17": {
+        "class": "kite",
+        "score": 0.42111724615097046
+    },
+    "airplane-18": {
+        "class": "aeroplane",
+        "score": 0.21331427991390228
+    },
+    "airplane-19": {
+        "class": "aeroplane",
+        "score": 0.6460041403770447
+    },
+    "airplane-20": {
+        "class": "aeroplane",
+        "score": 0.9167273044586182
+    },
+    "pool-1": {
+        "class": "cell phone",
+        "score": 0.2350429892539978
+    },
+    "pool-2": {
+        "class": "apple",
+        "score": 0.12234432995319366
+    },
+    "pool-3": {
+        "class": "person",
+        "score": 0.9063728451728821
+    },
+    "pool-4": {
+        "class": "diningtable",
+        "score": 0.152706116437912
+    },
+    "pool-5": {
+        "class": "person",
+        "score": 0.6139715909957886
+    },
+    "pool-6": {
+        "class": "diningtable",
+        "score": 0.7512142658233643
+    },
+    "pool-7": {
+        "class": "laptop",
+        "score": 0.45107999444007874
+    },
+    "pool-8": {
+        "class": "person",
+        "score": 0.7389547228813171
+    },
+    "pool-9": {
+        "class": "laptop",
+        "score": 0.23115210235118866
+    },
+    "pool-10": {
+        "class": "person",
+        "score": 0.7216860055923462
+    },
+    "pool-11": {
+        "class": "person",
+        "score": 0.9230943322181702
+    },
+    "pool-12": {
+        "class": "bowl",
+        "score": 0.7796009182929993
+    },
+    "pool-13": {
+        "class": "cup",
+        "score": 0.5147779583930969
+    },
+    "pool-14": {
+        "class": "bowl",
+        "score": 0.7630247473716736
+    },
+    "pool-15": {
+        "class": "cake",
+        "score": 0.20612479746341705
+    },
+    "pool-16": {
+        "class": "person",
+        "score": 0.4874207079410553
+    },
+    "pool-17": {
+        "class": "sports ball",
+        "score": 0.9306647181510925
+    },
+    "pool-18": {
+        "class": "sports ball",
+        "score": 0.7129839658737183
+    },
+    "pool-19": {
+        "class": "train",
+        "score": 0.21625587344169617
+    },
+    "pool-20": {
+        "class": "person",
+        "score": 0.7697756886482239
+    },
+    "racing-1": {
+        "class": "motorbike",
+        "score": 0.14513900876045227
+    },
+    "racing-2": {
+        "class": "aeroplane",
+        "score": 0.7610127329826355
+    },
+    "racing-3": {
+        "class": "aeroplane",
+        "score": 0.20342542231082916
+    },
+    "racing-4": {
+        "class": "car",
+        "score": 0.6048024892807007
+    },
+    "racing-5": {
+        "class": "car",
+        "score": 0.5231630206108093
+    },
+    "racing-6": {
+        "class": "car",
+        "score": 0.7010096907615662
+    },
+    "racing-7": {
+        "class": "aeroplane",
+        "score": 0.3527863919734955
+    },
+    "racing-8": {
+        "class": "aeroplane",
+        "score": 0.5447526574134827
+    },
+    "racing-9": {
+        "class": "aeroplane",
+        "score": 0.6540971398353577
+    },
+    "racing-10": {
+        "class": "car",
+        "score": 0.518229603767395
+    },
+    "racing-11": {
+        "class": "person",
+        "score": 0.21808263659477234
+    },
+    "racing-12": {
+        "class": "car",
+        "score": 0.4467555284500122
+    },
+    "racing-13": {
+        "class": "car",
+        "score": 0.6028031706809998
+    },
+    "racing-14": {
+        "class": "car",
+        "score": 0.9447057843208313
+    },
+    "racing-15": {
+        "class": "car",
+        "score": 0.9485122561454773
+    },
+    "racing-16": {
+        "class": "car",
+        "score": 0.5673785209655762
+    },
+    "racing-17": {
+        "class": "car",
+        "score": 0.7318907976150513
+    },
+    "racing-18": {
+        "class": "person",
+        "score": 0.42953962087631226
+    },
+    "racing-19": {
+        "class": "car",
+        "score": 0.6434492468833923
+    },
+    "racing-20": {
+        "class": "car",
+        "score": 0.2309512197971344
+    },
+    "electricfan-1": {
+        "class": "person",
+        "score": 0.037316370755434036
+    },
+    "electricfan-2": {
+        "class": "vase",
+        "score": 0.04166879877448082
+    },
+    "electricfan-3": {
+        "class": "frisbee",
+        "score": 0.061368830502033234
+    },
+    "electricfan-4": {
+        "class": "tvmonitor",
+        "score": 0.2255365550518036
+    },
+    "electricfan-5": {
+        "class": "sink",
+        "score": 0.241751030087471
+    },
+    "electricfan-6": {
+        "class": "scissors",
+        "score": 0.20583656430244446
+    },
+    "electricfan-7": {
+        "class": "vase",
+        "score": 0.5002309083938599
+    },
+    "electricfan-8": {
+        "class": "clock",
+        "score": 0.2674897313117981
+    },
+    "electricfan-9": {
+        "class": "person",
+        "score": 0.16902285814285278
+    },
+    "electricfan-10": {
+        "class": "toilet",
+        "score": 0.5478841662406921
+    },
+    "electricfan-11": {
+        "class": "aeroplane",
+        "score": 0.8716098666191101
+    },
+    "electricfan-12": {
+        "class": "vase",
+        "score": 0.37109631299972534
+    },
+    "electricfan-13": {
+        "class": "person",
+        "score": 0.22251248359680176
+    },
+    "electricfan-14": {
+        "class": "clock",
+        "score": 0.015580986626446247
+    },
+    "electricfan-15": {
+        "class": "umbrella",
+        "score": 0.2139071375131607
+    },
+    "electricfan-16": {
+        "class": "person",
+        "score": 0.9819803237915039
+    },
+    "electricfan-17": {
+        "class": "clock",
+        "score": 0.22950337827205658
+    },
+    "electricfan-18": {
+        "class": "person",
+        "score": 0.3093063235282898
+    },
+    "electricfan-19": {
+        "class": "diningtable",
+        "score": 0.08848095685243607
+    },
+    "electricfan-20": {
+        "class": "person",
+        "score": 0.9906823635101318
+    },
+    "swing-1": {
+        "class": "bird",
+        "score": 0.07798446714878082
+    },
+    "swing-2": {
+        "class": "person",
+        "score": 0.18839922547340393
+    },
+    "swing-3": {
+        "class": "person",
+        "score": 0.9538713097572327
+    },
+    "swing-4": {
+        "class": "person",
+        "score": 0.9690876007080078
+    },
+    "swing-5": {
+        "class": "person",
+        "score": 0.2678784430027008
+    },
+    "swing-6": {
+        "class": "person",
+        "score": 0.9023200869560242
+    },
+    "swing-7": {
+        "class": "kite",
+        "score": 0.5519979000091553
+    },
+    "swing-8": {
+        "class": "person",
+        "score": 0.7694626450538635
+    },
+    "swing-9": {
+        "class": "person",
+        "score": 0.9296271204948425
+    },
+    "swing-10": {
+        "class": "person",
+        "score": 0.912551999092102
+    },
+    "swing-11": {
+        "class": "person",
+        "score": 0.7414364218711853
+    },
+    "swing-12": {
+        "class": "person",
+        "score": 0.9493621587753296
+    },
+    "swing-13": {
+        "class": "person",
+        "score": 0.6365959048271179
+    },
+    "swing-14": {
+        "class": "person",
+        "score": 0.8240017890930176
+    },
+    "swing-15": {
+        "class": "person",
+        "score": 0.684830367565155
+    },
+    "swing-16": {
+        "class": "person",
+        "score": 0.23624862730503082
+    },
+    "swing-17": {
+        "class": "kite",
+        "score": 0.1436426341533661
+    },
+    "swing-18": {
+        "class": "person",
+        "score": 0.6130229830741882
+    },
+    "swing-19": {
+        "class": "person",
+        "score": 0.8389198184013367
+    },
+    "swing-20": {
+        "class": "fire hydrant",
+        "score": 0.38841429352760315
+    },
+    "rabbit-1": {
+        "class": "sheep",
+        "score": 0.7757797837257385
+    },
+    "rabbit-2": {
+        "class": "bird",
+        "score": 0.16573958098888397
+    },
+    "rabbit-3": {
+        "class": "bird",
+        "score": 0.39689067006111145
+    },
+    "rabbit-4": {
+        "class": "bird",
+        "score": 0.1006857380270958
+    },
+    "rabbit-5": {
+        "class": "bear",
+        "score": 0.018508024513721466
+    },
+    "rabbit-6": {
+        "class": "frisbee",
+        "score": 0.08509105443954468
+    },
+    "rabbit-7": {
+        "class": "bird",
+        "score": 0.2933904528617859
+    },
+    "rabbit-8": {
+        "class": "bed",
+        "score": 0.8491028547286987
+    },
+    "rabbit-9": {
+        "class": "cat",
+        "score": 0.9383891820907593
+    },
+    "rabbit-10": {
+        "class": "sofa",
+        "score": 0.5691391825675964
+    },
+    "rabbit-11": {
+        "class": "bird",
+        "score": 0.9813273549079895
+    },
+    "rabbit-12": {
+        "class": "bird",
+        "score": 0.055620428174734116
+    },
+    "rabbit-13": {
+        "class": "bed",
+        "score": 0.8228053450584412
+    },
+    "rabbit-14": {
+        "class": "oven",
+        "score": 0.3069746494293213
+    },
+    "rabbit-15": {
+        "class": "cat",
+        "score": 0.3583797812461853
+    },
+    "rabbit-16": {
+        "class": "dog",
+        "score": 0.6726959943771362
+    },
+    "rabbit-17": {
+        "class": "dog",
+        "score": 0.6471095085144043
+    },
+    "rabbit-18": {
+        "class": "dog",
+        "score": 0.42715081572532654
+    },
+    "rabbit-19": {
+        "class": "dog",
+        "score": 0.2737874984741211
+    },
+    "rabbit-20": {
+        "class": "sports ball",
+        "score": 0.8538665771484375
+    },
+    "flag-1": {
+        "class": "kite",
+        "score": 0.8610472679138184
+    },
+    "flag-2": {
+        "class": "aeroplane",
+        "score": 0.5288341045379639
+    },
+    "flag-3": {
+        "class": "person",
+        "score": 0.9164474010467529
+    },
+    "flag-4": {
+        "class": "car",
+        "score": 0.15785716474056244
+    },
+    "flag-5": {
+        "class": "bird",
+        "score": 0.21697238087654114
+    },
+    "flag-6": {
+        "class": "kite",
+        "score": 0.43105050921440125
+    },
+    "flag-7": {
+        "class": "person",
+        "score": 0.9732709527015686
+    },
+    "flag-8": {
+        "class": "chair",
+        "score": 0.5246572494506836
+    },
+    "flag-9": {
+        "class": "aeroplane",
+        "score": 0.8024564385414124
+    },
+    "flag-10": {
+        "class": "person",
+        "score": 0.6530545353889465
+    },
+    "flag-11": {
+        "class": "person",
+        "score": 0.7696734070777893
+    },
+    "flag-12": {
+        "class": "person",
+        "score": 0.6303094625473022
+    },
+    "flag-13": {
+        "class": "kite",
+        "score": 0.6255878210067749
+    },
+    "flag-14": {
+        "class": "umbrella",
+        "score": 0.166285440325737
+    },
+    "flag-15": {
+        "class": "person",
+        "score": 0.9798799157142639
+    },
+    "flag-16": {
+        "class": "person",
+        "score": 0.5614264607429504
+    },
+    "flag-17": {
+        "class": "person",
+        "score": 0.7697476148605347
+    },
+    "flag-18": {
+        "class": "traffic light",
+        "score": 0.04479534551501274
+    },
+    "flag-19": {
+        "class": "car",
+        "score": 0.36920589208602905
+    },
+    "flag-20": {
+        "class": "bird",
+        "score": 0.5069897770881653
+    },
+    "chameleon-1": {
+        "class": "car",
+        "score": 0.2157089114189148
+    },
+    "chameleon-2": {
+        "class": "person",
+        "score": 0.2906780242919922
+    },
+    "chameleon-3": {
+        "class": "bird",
+        "score": 0.4365781545639038
+    },
+    "chameleon-4": {
+        "class": "cow",
+        "score": 0.17755089700222015
+    },
+    "chameleon-5": {
+        "class": "cup",
+        "score": 0.6615267992019653
+    },
+    "chameleon-6": {
+        "class": "person",
+        "score": 0.33847498893737793
+    },
+    "chameleon-7": {
+        "class": "dog",
+        "score": 0.41840660572052
+    },
+    "chameleon-8": {
+        "class": "person",
+        "score": 0.19372551143169403
+    },
+    "chameleon-9": {
+        "class": "bird",
+        "score": 0.2825677990913391
+    },
+    "chameleon-10": {
+        "class": "boat",
+        "score": 0.10092735290527344
+    },
+    "chameleon-11": {
+        "class": "diningtable",
+        "score": 0.27343207597732544
+    },
+    "chameleon-12": {
+        "class": "person",
+        "score": 0.4557647705078125
+    },
+    "chameleon-13": {
+        "class": "bird",
+        "score": 0.024944478645920753
+    },
+    "chameleon-14": {
+        "class": "bird",
+        "score": 0.32954293489456177
+    },
+    "chameleon-15": {
+        "class": "carrot",
+        "score": 0.10557110607624054
+    },
+    "chameleon-16": {
+        "class": "person",
+        "score": 0.741318941116333
+    },
+    "chameleon-17": {
+        "class": "bird",
+        "score": 0.12068387120962143
+    },
+    "chameleon-18": {
+        "class": "aeroplane",
+        "score": 0.06549318879842758
+    },
+    "chameleon-19": {
+        "class": "pottedplant",
+        "score": 0.3056246042251587
+    },
+    "chameleon-20": {
+        "class": "person",
+        "score": 0.5533247590065002
+    },
+    "sepia-1": {
+        "class": "broccoli",
+        "score": 0.17492161691188812
+    },
+    "sepia-2": {
+        "class": "bird",
+        "score": 0.09755115211009979
+    },
+    "sepia-3": {
+        "class": "bird",
+        "score": 0.26309823989868164
+    },
+    "sepia-4": {
+        "class": "broccoli",
+        "score": 0.4038518965244293
+    },
+    "sepia-5": {
+        "class": "broccoli",
+        "score": 0.18182991445064545
+    },
+    "sepia-6": {
+        "class": "boat",
+        "score": 0.07279838621616364
+    },
+    "sepia-7": {
+        "class": "bird",
+        "score": 0.21229583024978638
+    },
+    "sepia-8": {
+        "class": "sandwich",
+        "score": 0.2948355972766876
+    },
+    "sepia-9": {
+        "class": "orange",
+        "score": 0.034172359853982925
+    },
+    "sepia-10": {
+        "class": "donut",
+        "score": 0.15912917256355286
+    },
+    "sepia-11": {
+        "class": "bird",
+        "score": 0.2790169417858124
+    },
+    "sepia-12": {
+        "class": "bird",
+        "score": 0.5312221646308899
+    },
+    "sepia-13": {
+        "class": "carrot",
+        "score": 0.1773761361837387
+    },
+    "sepia-14": {
+        "class": "elephant",
+        "score": 0.552849292755127
+    },
+    "sepia-15": {
+        "class": "pizza",
+        "score": 0.18740321695804596
+    },
+    "sepia-16": {
+        "class": "bird",
+        "score": 0.31369704008102417
+    },
+    "sepia-17": {
+        "class": "broccoli",
+        "score": 0.020232152193784714
+    },
+    "sepia-18": {
+        "class": "sports ball",
+        "score": 0.1268429011106491
+    },
+    "sepia-19": {
+        "class": "bird",
+        "score": 0.10910724103450775
+    },
+    "sepia-20": {
+        "class": "pizza",
+        "score": 0.06559154391288757
+    },
+    "yoyo-1": {
+        "class": "person",
+        "score": 0.9163913130760193
+    },
+    "yoyo-2": {
+        "class": "person",
+        "score": 0.9897139072418213
+    },
+    "yoyo-3": {
+        "class": "person",
+        "score": 0.9948868155479431
+    },
+    "yoyo-4": {
+        "class": "person",
+        "score": 0.9994238018989563
+    },
+    "yoyo-5": {
+        "class": "person",
+        "score": 0.9954129457473755
+    },
+    "yoyo-6": {
+        "class": "person",
+        "score": 0.9760391712188721
+    },
+    "yoyo-7": {
+        "class": "person",
+        "score": 0.9837847948074341
+    },
+    "yoyo-8": {
+        "class": "person",
+        "score": 0.9961239695549011
+    },
+    "yoyo-9": {
+        "class": "person",
+        "score": 0.9975009560585022
+    },
+    "yoyo-10": {
+        "class": "person",
+        "score": 0.9477142691612244
+    },
+    "yoyo-11": {
+        "class": "person",
+        "score": 0.8988269567489624
+    },
+    "yoyo-12": {
+        "class": "person",
+        "score": 0.9928995966911316
+    },
+    "yoyo-13": {
+        "class": "person",
+        "score": 0.9846578240394592
+    },
+    "yoyo-14": {
+        "class": "person",
+        "score": 0.9921270608901978
+    },
+    "yoyo-15": {
+        "class": "person",
+        "score": 0.8225292563438416
+    },
+    "yoyo-16": {
+        "class": "person",
+        "score": 0.9873582124710083
+    },
+    "yoyo-17": {
+        "class": "person",
+        "score": 0.9548971652984619
+    },
+    "yoyo-18": {
+        "class": "person",
+        "score": 0.9344779849052429
+    },
+    "yoyo-19": {
+        "class": "person",
+        "score": 0.9511587023735046
+    },
+    "yoyo-20": {
+        "class": "person",
+        "score": 0.9507501125335693
+    },
+    "bus-1": {
+        "class": "car",
+        "score": 0.7039272785186768
+    },
+    "bus-2": {
+        "class": "car",
+        "score": 0.7847878336906433
+    },
+    "bus-3": {
+        "class": "car",
+        "score": 0.29335060715675354
+    },
+    "bus-4": {
+        "class": "bus",
+        "score": 0.8894599080085754
+    },
+    "bus-5": {
+        "class": "bus",
+        "score": 0.32247284054756165
+    },
+    "bus-6": {
+        "class": "truck",
+        "score": 0.7500995397567749
+    },
+    "bus-7": {
+        "class": "truck",
+        "score": 0.7118825912475586
+    },
+    "bus-8": {
+        "class": "motorbike",
+        "score": 0.5241506099700928
+    },
+    "bus-9": {
+        "class": "truck",
+        "score": 0.7696863412857056
+    },
+    "bus-10": {
+        "class": "aeroplane",
+        "score": 0.16067223250865936
+    },
+    "bus-11": {
+        "class": "truck",
+        "score": 0.6072373986244202
+    },
+    "bus-12": {
+        "class": "bus",
+        "score": 0.895425021648407
+    },
+    "bus-13": {
+        "class": "truck",
+        "score": 0.7438421845436096
+    },
+    "bus-14": {
+        "class": "truck",
+        "score": 0.6384198069572449
+    },
+    "bus-15": {
+        "class": "person",
+        "score": 0.8187401294708252
+    },
+    "bus-16": {
+        "class": "truck",
+        "score": 0.4219668507575989
+    },
+    "bus-17": {
+        "class": "truck",
+        "score": 0.8985463380813599
+    },
+    "bus-18": {
+        "class": "bus",
+        "score": 0.2438676953315735
+    },
+    "bus-19": {
+        "class": "truck",
+        "score": 0.8515877723693848
+    },
+    "bus-20": {
+        "class": "bus",
+        "score": 0.8023408651351929
+    },
+    "pig-1": {
+        "class": "dog",
+        "score": 0.40661555528640747
+    },
+    "pig-2": {
+        "class": "frisbee",
+        "score": 0.3734155595302582
+    },
+    "pig-3": {
+        "class": "dog",
+        "score": 0.5456182956695557
+    },
+    "pig-4": {
+        "class": "sofa",
+        "score": 0.1701219379901886
+    },
+    "pig-5": {
+        "class": "cat",
+        "score": 0.5487799048423767
+    },
+    "pig-6": {
+        "class": "bear",
+        "score": 0.06122243404388428
+    },
+    "pig-7": {
+        "class": "bear",
+        "score": 0.7272343635559082
+    },
+    "pig-8": {
+        "class": "dog",
+        "score": 0.17042981088161469
+    },
+    "pig-9": {
+        "class": "dog",
+        "score": 0.21011315286159515
+    },
+    "pig-10": {
+        "class": "cow",
+        "score": 0.6632870435714722
+    },
+    "pig-11": {
+        "class": "bowl",
+        "score": 0.5716145038604736
+    },
+    "pig-12": {
+        "class": "elephant",
+        "score": 0.603855550289154
+    },
+    "pig-13": {
+        "class": "bird",
+        "score": 0.715685248374939
+    },
+    "pig-14": {
+        "class": "bear",
+        "score": 0.33791765570640564
+    },
+    "pig-15": {
+        "class": "person",
+        "score": 0.06837008148431778
+    },
+    "pig-16": {
+        "class": "person",
+        "score": 0.30806517601013184
+    },
+    "pig-17": {
+        "class": "cow",
+        "score": 0.8231886625289917
+    },
+    "pig-18": {
+        "class": "bear",
+        "score": 0.8013071417808533
+    },
+    "pig-19": {
+        "class": "bear",
+        "score": 0.6517123579978943
+    },
+    "pig-20": {
+        "class": "bird",
+        "score": 0.7458835244178772
+    },
+    "cat-1": {
+        "class": "bear",
+        "score": 0.6315626502037048
+    },
+    "cat-2": {
+        "class": "refrigerator",
+        "score": 0.16441509127616882
+    },
+    "cat-3": {
+        "class": "cat",
+        "score": 0.6473764777183533
+    },
+    "cat-4": {
+        "class": "dog",
+        "score": 0.8421872854232788
+    },
+    "cat-5": {
+        "class": "cat",
+        "score": 0.3463645279407501
+    },
+    "cat-6": {
+        "class": "bed",
+        "score": 0.90031498670578
+    },
+    "cat-7": {
+        "class": "bird",
+        "score": 0.6984452605247498
+    },
+    "cat-8": {
+        "class": "car",
+        "score": 0.5108126401901245
+    },
+    "cat-9": {
+        "class": "dog",
+        "score": 0.5439486503601074
+    },
+    "cat-10": {
+        "class": "dog",
+        "score": 0.7798912525177002
+    },
+    "cat-11": {
+        "class": "cat",
+        "score": 0.9167558550834656
+    },
+    "cat-12": {
+        "class": "bird",
+        "score": 0.28406041860580444
+    },
+    "cat-13": {
+        "class": "bird",
+        "score": 0.5169231295585632
+    },
+    "cat-14": {
+        "class": "cat",
+        "score": 0.7693206667900085
+    },
+    "cat-15": {
+        "class": "sheep",
+        "score": 0.9510255455970764
+    },
+    "cat-16": {
+        "class": "sheep",
+        "score": 0.9144843816757202
+    },
+    "cat-17": {
+        "class": "bird",
+        "score": 0.23122578859329224
+    },
+    "cat-18": {
+        "class": "cat",
+        "score": 0.31521838903427124
+    },
+    "cat-19": {
+        "class": "bench",
+        "score": 0.11162804812192917
+    },
+    "cat-20": {
+        "class": "cat",
+        "score": 0.8955457210540771
+    },
+    "leopard-1": {
+        "class": "elephant",
+        "score": 0.615696132183075
+    },
+    "leopard-2": {
+        "class": "giraffe",
+        "score": 0.05169766768813133
+    },
+    "leopard-3": {
+        "class": "elephant",
+        "score": 0.8088781833648682
+    },
+    "leopard-4": {
+        "class": "bird",
+        "score": 0.31733274459838867
+    },
+    "leopard-5": {
+        "class": "bird",
+        "score": 0.29441165924072266
+    },
+    "leopard-6": {
+        "class": "bird",
+        "score": 0.2243863195180893
+    },
+    "leopard-7": {
+        "class": "giraffe",
+        "score": 0.1191985160112381
+    },
+    "leopard-8": {
+        "class": "broccoli",
+        "score": 0.04803415387868881
+    },
+    "leopard-9": {
+        "class": "bear",
+        "score": 0.4514854848384857
+    },
+    "leopard-10": {
+        "class": "bird",
+        "score": 0.06160711869597435
+    },
+    "leopard-11": {
+        "class": "giraffe",
+        "score": 0.6565295457839966
+    },
+    "leopard-12": {
+        "class": "bear",
+        "score": 0.07961157709360123
+    },
+    "leopard-13": {
+        "class": "person",
+        "score": 0.7943615913391113
+    },
+    "leopard-14": {
+        "class": "bear",
+        "score": 0.8108811378479004
+    },
+    "leopard-15": {
+        "class": "giraffe",
+        "score": 0.8667530417442322
+    },
+    "leopard-16": {
+        "class": "cat",
+        "score": 0.5708914399147034
+    },
+    "leopard-17": {
+        "class": "giraffe",
+        "score": 0.4322887659072876
+    },
+    "leopard-18": {
+        "class": "dog",
+        "score": 0.8899693489074707
+    },
+    "leopard-19": {
+        "class": "cow",
+        "score": 0.6240483522415161
+    },
+    "leopard-20": {
+        "class": "bear",
+        "score": 0.8586756587028503
+    },
+    "cattle-1": {
+        "class": "cow",
+        "score": 0.3424004912376404
+    },
+    "cattle-2": {
+        "class": "cow",
+        "score": 0.8324093818664551
+    },
+    "cattle-3": {
+        "class": "person",
+        "score": 0.8433766961097717
+    },
+    "cattle-4": {
+        "class": "cow",
+        "score": 0.6707279086112976
+    },
+    "cattle-5": {
+        "class": "cow",
+        "score": 0.9878431558609009
+    },
+    "cattle-6": {
+        "class": "person",
+        "score": 0.7099176645278931
+    },
+    "cattle-7": {
+        "class": "cow",
+        "score": 0.5249133706092834
+    },
+    "cattle-8": {
+        "class": "cow",
+        "score": 0.6942191123962402
+    },
+    "cattle-9": {
+        "class": "cow",
+        "score": 0.9832983613014221
+    },
+    "cattle-10": {
+        "class": "bird",
+        "score": 0.3510625660419464
+    },
+    "cattle-11": {
+        "class": "cow",
+        "score": 0.9618204236030579
+    },
+    "cattle-12": {
+        "class": "truck",
+        "score": 0.05845753848552704
+    },
+    "cattle-13": {
+        "class": "bird",
+        "score": 0.5695433616638184
+    },
+    "cattle-14": {
+        "class": "horse",
+        "score": 0.5167345404624939
+    },
+    "cattle-15": {
+        "class": "horse",
+        "score": 0.19722408056259155
+    },
+    "cattle-16": {
+        "class": "sheep",
+        "score": 0.7547348737716675
+    },
+    "cattle-17": {
+        "class": "cow",
+        "score": 0.4200189411640167
+    },
+    "cattle-18": {
+        "class": "bird",
+        "score": 0.25032979249954224
+    },
+    "cattle-19": {
+        "class": "cow",
+        "score": 0.9157602787017822
+    },
+    "cattle-20": {
+        "class": "sheep",
+        "score": 0.4364423155784607
+    },
+    "umbrella-1": {
+        "class": "umbrella",
+        "score": 0.878746509552002
+    },
+    "umbrella-2": {
+        "class": "umbrella",
+        "score": 0.9123756885528564
+    },
+    "umbrella-3": {
+        "class": "umbrella",
+        "score": 0.9048283696174622
+    },
+    "umbrella-4": {
+        "class": "person",
+        "score": 0.9128699898719788
+    },
+    "umbrella-5": {
+        "class": "person",
+        "score": 0.48830220103263855
+    },
+    "umbrella-6": {
+        "class": "umbrella",
+        "score": 0.9744530320167542
+    },
+    "umbrella-7": {
+        "class": "umbrella",
+        "score": 0.9371588826179504
+    },
+    "umbrella-8": {
+        "class": "bird",
+        "score": 0.4604879319667816
+    },
+    "umbrella-9": {
+        "class": "person",
+        "score": 0.07716822624206543
+    },
+    "umbrella-10": {
+        "class": "umbrella",
+        "score": 0.9421939849853516
+    },
+    "umbrella-11": {
+        "class": "person",
+        "score": 0.987654983997345
+    },
+    "umbrella-12": {
+        "class": "fire hydrant",
+        "score": 0.38204970955848694
+    },
+    "umbrella-13": {
+        "class": "person",
+        "score": 0.8304956555366516
+    },
+    "umbrella-14": {
+        "class": "umbrella",
+        "score": 0.7278409600257874
+    },
+    "umbrella-15": {
+        "class": "umbrella",
+        "score": 0.5019081830978394
+    },
+    "umbrella-16": {
+        "class": "person",
+        "score": 0.45956841111183167
+    },
+    "umbrella-17": {
+        "class": "person",
+        "score": 0.9500489830970764
+    },
+    "umbrella-18": {
+        "class": "umbrella",
+        "score": 0.9364531636238098
+    },
+    "umbrella-19": {
+        "class": "bird",
+        "score": 0.43703919649124146
+    },
+    "umbrella-20": {
+        "class": "person",
+        "score": 0.8671191334724426
+    },
+    "volleyball-1": {
+        "class": "person",
+        "score": 0.9863895773887634
+    },
+    "volleyball-2": {
+        "class": "person",
+        "score": 0.8888599872589111
+    },
+    "volleyball-3": {
+        "class": "person",
+        "score": 0.7129077315330505
+    },
+    "volleyball-4": {
+        "class": "person",
+        "score": 0.9081413745880127
+    },
+    "volleyball-5": {
+        "class": "person",
+        "score": 0.9599321484565735
+    },
+    "volleyball-6": {
+        "class": "person",
+        "score": 0.9811431169509888
+    },
+    "volleyball-7": {
+        "class": "person",
+        "score": 0.7375416159629822
+    },
+    "volleyball-8": {
+        "class": "person",
+        "score": 0.9960233569145203
+    },
+    "volleyball-9": {
+        "class": "person",
+        "score": 0.9306608438491821
+    },
+    "volleyball-10": {
+        "class": "person",
+        "score": 0.9313609004020691
+    },
+    "volleyball-11": {
+        "class": "person",
+        "score": 0.762441098690033
+    },
+    "volleyball-12": {
+        "class": "person",
+        "score": 0.8759215474128723
+    },
+    "volleyball-13": {
+        "class": "person",
+        "score": 0.7432681918144226
+    },
+    "volleyball-14": {
+        "class": "person",
+        "score": 0.707766592502594
+    },
+    "volleyball-15": {
+        "class": "person",
+        "score": 0.8801471590995789
+    },
+    "volleyball-16": {
+        "class": "person",
+        "score": 0.8520264029502869
+    },
+    "volleyball-17": {
+        "class": "person",
+        "score": 0.9796861410140991
+    },
+    "volleyball-18": {
+        "class": "person",
+        "score": 0.9161773324012756
+    },
+    "volleyball-19": {
+        "class": "person",
+        "score": 0.8769906759262085
+    },
+    "volleyball-20": {
+        "class": "person",
+        "score": 0.996017575263977
+    },
+    "horse-1": {
+        "class": "dog",
+        "score": 0.9093396663665771
+    },
+    "horse-2": {
+        "class": "horse",
+        "score": 0.8864759802818298
+    },
+    "horse-3": {
+        "class": "sheep",
+        "score": 0.6884405612945557
+    },
+    "horse-4": {
+        "class": "cow",
+        "score": 0.94126296043396
+    },
+    "horse-5": {
+        "class": "horse",
+        "score": 0.8238173127174377
+    },
+    "horse-6": {
+        "class": "horse",
+        "score": 0.8304233551025391
+    },
+    "horse-7": {
+        "class": "person",
+        "score": 0.858092188835144
+    },
+    "horse-8": {
+        "class": "dog",
+        "score": 0.9177579879760742
+    },
+    "horse-9": {
+        "class": "dog",
+        "score": 0.7420377731323242
+    },
+    "horse-10": {
+        "class": "person",
+        "score": 0.9726161360740662
+    },
+    "horse-11": {
+        "class": "horse",
+        "score": 0.8387641310691833
+    },
+    "horse-12": {
+        "class": "person",
+        "score": 0.8191237449645996
+    },
+    "horse-13": {
+        "class": "horse",
+        "score": 0.873571515083313
+    },
+    "horse-14": {
+        "class": "person",
+        "score": 0.9601656198501587
+    },
+    "horse-15": {
+        "class": "person",
+        "score": 0.8703264594078064
+    },
+    "horse-16": {
+        "class": "horse",
+        "score": 0.8329169154167175
+    },
+    "horse-17": {
+        "class": "horse",
+        "score": 0.7102035880088806
+    },
+    "horse-18": {
+        "class": "horse",
+        "score": 0.9234403967857361
+    },
+    "horse-19": {
+        "class": "horse",
+        "score": 0.758305549621582
+    },
+    "horse-20": {
+        "class": "person",
+        "score": 0.470197856426239
+    },
+    "helmet-1": {
+        "class": "person",
+        "score": 0.9209149479866028
+    },
+    "helmet-2": {
+        "class": "person",
+        "score": 0.8544142246246338
+    },
+    "helmet-3": {
+        "class": "person",
+        "score": 0.42853015661239624
+    },
+    "helmet-4": {
+        "class": "person",
+        "score": 0.9112516641616821
+    },
+    "helmet-5": {
+        "class": "person",
+        "score": 0.9705435633659363
+    },
+    "helmet-6": {
+        "class": "person",
+        "score": 0.9605216383934021
+    },
+    "helmet-7": {
+        "class": "person",
+        "score": 0.9899134635925293
+    },
+    "helmet-8": {
+        "class": "person",
+        "score": 0.9266977310180664
+    },
+    "helmet-9": {
+        "class": "person",
+        "score": 0.8299922943115234
+    },
+    "helmet-10": {
+        "class": "motorbike",
+        "score": 0.9214345216751099
+    },
+    "helmet-11": {
+        "class": "person",
+        "score": 0.6355317234992981
+    },
+    "helmet-12": {
+        "class": "person",
+        "score": 0.9996387362480164
+    },
+    "helmet-13": {
+        "class": "person",
+        "score": 0.9097332954406738
+    },
+    "helmet-14": {
+        "class": "person",
+        "score": 0.7058506011962891
+    },
+    "helmet-15": {
+        "class": "person",
+        "score": 0.9544718861579895
+    },
+    "helmet-16": {
+        "class": "person",
+        "score": 0.7520001530647278
+    },
+    "helmet-17": {
+        "class": "person",
+        "score": 0.8761024475097656
+    },
+    "helmet-18": {
+        "class": "motorbike",
+        "score": 0.9781315922737122
+    },
+    "helmet-19": {
+        "class": "person",
+        "score": 0.9591032862663269
+    },
+    "helmet-20": {
+        "class": "person",
+        "score": 0.9866563677787781
+    },
+    "shark-1": {
+        "class": "bird",
+        "score": 0.7681345343589783
+    },
+    "shark-2": {
+        "class": "person",
+        "score": 0.05555005744099617
+    },
+    "shark-3": {
+        "class": "bird",
+        "score": 0.050444506108760834
+    },
+    "shark-4": {
+        "class": "vase",
+        "score": 0.20550669729709625
+    },
+    "shark-5": {
+        "class": "aeroplane",
+        "score": 0.05053358152508736
+    },
+    "shark-6": {
+        "class": "aeroplane",
+        "score": 0.1506703943014145
+    },
+    "shark-7": {
+        "class": "aeroplane",
+        "score": 0.353620320558548
+    },
+    "shark-8": {
+        "class": "diningtable",
+        "score": 0.021183498203754425
+    },
+    "shark-9": {
+        "class": "knife",
+        "score": 0.043607987463474274
+    },
+    "shark-10": {
+        "class": "pottedplant",
+        "score": 0.3209758996963501
+    },
+    "shark-11": {
+        "class": "cake",
+        "score": 0.35627779364585876
+    },
+    "shark-12": {
+        "class": "aeroplane",
+        "score": 0.1597703993320465
+    },
+    "shark-13": {
+        "class": "aeroplane",
+        "score": 0.0008270852267742157
+    },
+    "shark-14": {
+        "class": "bird",
+        "score": 0.3076309859752655
+    },
+    "shark-15": {
+        "class": "bird",
+        "score": 0.33607521653175354
+    },
+    "shark-16": {
+        "class": "skateboard",
+        "score": 0.5111387372016907
+    },
+    "shark-17": {
+        "class": "bird",
+        "score": 0.8801860213279724
+    },
+    "shark-18": {
+        "class": "bird",
+        "score": 0.03415082022547722
+    },
+    "shark-19": {
+        "class": "person",
+        "score": 0.8677080273628235
+    },
+    "shark-20": {
+        "class": "person",
+        "score": 0.08560924232006073
+    },
+    "rubicCube-1": {
+        "class": "keyboard",
+        "score": 0.9442909955978394
+    },
+    "rubicCube-2": {
+        "class": "person",
+        "score": 0.7912229895591736
+    },
+    "rubicCube-3": {
+        "class": "person",
+        "score": 0.5043862462043762
+    },
+    "rubicCube-4": {
+        "class": "book",
+        "score": 0.36674898862838745
+    },
+    "rubicCube-5": {
+        "class": "person",
+        "score": 0.5610639452934265
+    },
+    "rubicCube-6": {
+        "class": "person",
+        "score": 0.8631958365440369
+    },
+    "rubicCube-7": {
+        "class": "bottle",
+        "score": 0.44951656460762024
+    },
+    "rubicCube-8": {
+        "class": "diningtable",
+        "score": 0.7714951038360596
+    },
+    "rubicCube-9": {
+        "class": "suitcase",
+        "score": 0.5385501980781555
+    },
+    "rubicCube-10": {
+        "class": "suitcase",
+        "score": 0.14826305210590363
+    },
+    "rubicCube-11": {
+        "class": "person",
+        "score": 0.5261183977127075
+    },
+    "rubicCube-12": {
+        "class": "person",
+        "score": 0.6889605522155762
+    },
+    "rubicCube-13": {
+        "class": "kite",
+        "score": 0.7144308090209961
+    },
+    "rubicCube-14": {
+        "class": "tie",
+        "score": 0.3469493091106415
+    },
+    "rubicCube-15": {
+        "class": "person",
+        "score": 0.735555112361908
+    },
+    "rubicCube-16": {
+        "class": "person",
+        "score": 0.996789276599884
+    },
+    "rubicCube-17": {
+        "class": "suitcase",
+        "score": 0.5886526703834534
+    },
+    "rubicCube-18": {
+        "class": "umbrella",
+        "score": 0.9559057354927063
+    },
+    "rubicCube-19": {
+        "class": "person",
+        "score": 0.6439131498336792
+    },
+    "rubicCube-20": {
+        "class": "bed",
+        "score": 0.10914955288171768
+    },
+    "elephant-1": {
+        "class": "elephant",
+        "score": 0.9441819190979004
+    },
+    "elephant-2": {
+        "class": "elephant",
+        "score": 0.992742121219635
+    },
+    "elephant-3": {
+        "class": "elephant",
+        "score": 0.9717110395431519
+    },
+    "elephant-4": {
+        "class": "elephant",
+        "score": 0.9785256385803223
+    },
+    "elephant-5": {
+        "class": "elephant",
+        "score": 0.9972221255302429
+    },
+    "elephant-6": {
+        "class": "elephant",
+        "score": 0.9866771697998047
+    },
+    "elephant-7": {
+        "class": "elephant",
+        "score": 0.9799448251724243
+    },
+    "elephant-8": {
+        "class": "elephant",
+        "score": 0.9709309339523315
+    },
+    "elephant-9": {
+        "class": "elephant",
+        "score": 0.9566735625267029
+    },
+    "elephant-10": {
+        "class": "elephant",
+        "score": 0.9173107743263245
+    },
+    "elephant-11": {
+        "class": "elephant",
+        "score": 0.7085142731666565
+    },
+    "elephant-12": {
+        "class": "elephant",
+        "score": 0.50428706407547
+    },
+    "elephant-13": {
+        "class": "elephant",
+        "score": 0.9992684721946716
+    },
+    "elephant-14": {
+        "class": "elephant",
+        "score": 0.9415590763092041
+    },
+    "elephant-15": {
+        "class": "elephant",
+        "score": 0.9266400933265686
+    },
+    "elephant-16": {
+        "class": "elephant",
+        "score": 0.7650777101516724
+    },
+    "elephant-17": {
+        "class": "elephant",
+        "score": 0.9863598942756653
+    },
+    "elephant-18": {
+        "class": "elephant",
+        "score": 0.9974273443222046
+    },
+    "elephant-19": {
+        "class": "elephant",
+        "score": 0.9668602347373962
+    },
+    "elephant-20": {
+        "class": "person",
+        "score": 0.7077443599700928
+    },
+    "crab-1": {
+        "class": "bird",
+        "score": 0.3222191631793976
+    },
+    "crab-2": {
+        "class": "bird",
+        "score": 0.05264849215745926
+    },
+    "crab-3": {
+        "class": "cat",
+        "score": 0.6125712394714355
+    },
+    "crab-4": {
+        "class": "bird",
+        "score": 0.15257662534713745
+    },
+    "crab-5": {
+        "class": "pizza",
+        "score": 0.09355469048023224
+    },
+    "crab-6": {
+        "class": "bird",
+        "score": 0.37754544615745544
+    },
+    "crab-7": {
+        "class": "bird",
+        "score": 0.037371810525655746
+    },
+    "crab-8": {
+        "class": "person",
+        "score": 0.14821748435497284
+    },
+    "crab-9": {
+        "class": "dog",
+        "score": 0.17916712164878845
+    },
+    "crab-10": {
+        "class": "bird",
+        "score": 0.4099278450012207
+    },
+    "crab-11": {
+        "class": "dog",
+        "score": 0.8905604481697083
+    },
+    "crab-12": {
+        "class": "hot dog",
+        "score": 0.1771961748600006
+    },
+    "crab-13": {
+        "class": "teddy bear",
+        "score": 0.08986499905586243
+    },
+    "crab-14": {
+        "class": "fire hydrant",
+        "score": 0.34365013241767883
+    },
+    "crab-15": {
+        "class": "traffic light",
+        "score": 0.09296189248561859
+    },
+    "crab-16": {
+        "class": "diningtable",
+        "score": 0.011885324493050575
+    },
+    "crab-17": {
+        "class": "cat",
+        "score": 0.07736440002918243
+    },
+    "crab-18": {
+        "class": "donut",
+        "score": 0.22956733405590057
+    },
+    "crab-19": {
+        "class": "giraffe",
+        "score": 0.16252359747886658
+    },
+    "crab-20": {
+        "class": "bird",
+        "score": 0.48669689893722534
+    },
+    "microphone-1": {
+        "class": "person",
+        "score": 0.9588717818260193
+    },
+    "microphone-2": {
+        "class": "person",
+        "score": 0.8945914506912231
+    },
+    "microphone-3": {
+        "class": "chair",
+        "score": 0.9051032066345215
+    },
+    "microphone-4": {
+        "class": "person",
+        "score": 0.9821342825889587
+    },
+    "microphone-5": {
+        "class": "person",
+        "score": 0.4880535304546356
+    },
+    "microphone-6": {
+        "class": "person",
+        "score": 0.9468636512756348
+    },
+    "microphone-7": {
+        "class": "person",
+        "score": 0.9140092134475708
+    },
+    "microphone-8": {
+        "class": "person",
+        "score": 0.9908767938613892
+    },
+    "microphone-9": {
+        "class": "person",
+        "score": 0.5190116763114929
+    },
+    "microphone-10": {
+        "class": "person",
+        "score": 0.5140867233276367
+    },
+    "microphone-11": {
+        "class": "person",
+        "score": 0.7821403741836548
+    },
+    "microphone-12": {
+        "class": "person",
+        "score": 0.8470770120620728
+    },
+    "microphone-13": {
+        "class": "person",
+        "score": 0.8260869383811951
+    },
+    "microphone-14": {
+        "class": "clock",
+        "score": 0.17015120387077332
+    },
+    "microphone-15": {
+        "class": "person",
+        "score": 0.9994197487831116
+    },
+    "microphone-16": {
+        "class": "person",
+        "score": 0.9459134936332703
+    },
+    "microphone-17": {
+        "class": "person",
+        "score": 0.9224317073822021
+    },
+    "microphone-18": {
+        "class": "person",
+        "score": 0.8626108765602112
+    },
+    "microphone-19": {
+        "class": "person",
+        "score": 0.9893473386764526
+    },
+    "microphone-20": {
+        "class": "person",
+        "score": 0.8340221047401428
+    },
+    "book-1": {
+        "class": "person",
+        "score": 0.9064199328422546
+    },
+    "book-2": {
+        "class": "book",
+        "score": 0.25165340304374695
+    },
+    "book-3": {
+        "class": "book",
+        "score": 0.5202631950378418
+    },
+    "book-4": {
+        "class": "person",
+        "score": 0.9924381375312805
+    },
+    "book-5": {
+        "class": "person",
+        "score": 0.9506299495697021
+    },
+    "book-6": {
+        "class": "book",
+        "score": 0.7468429803848267
+    },
+    "book-7": {
+        "class": "person",
+        "score": 0.9381166696548462
+    },
+    "book-8": {
+        "class": "book",
+        "score": 0.45758533477783203
+    },
+    "book-9": {
+        "class": "person",
+        "score": 0.07880949974060059
+    },
+    "book-10": {
+        "class": "book",
+        "score": 0.9516859650611877
+    },
+    "book-11": {
+        "class": "person",
+        "score": 0.9414451122283936
+    },
+    "book-12": {
+        "class": "refrigerator",
+        "score": 0.5139665007591248
+    },
+    "book-13": {
+        "class": "book",
+        "score": 0.4181341826915741
+    },
+    "book-14": {
+        "class": "person",
+        "score": 0.9542112350463867
+    },
+    "book-15": {
+        "class": "book",
+        "score": 0.438388854265213
+    },
+    "book-16": {
+        "class": "person",
+        "score": 0.9143487215042114
+    },
+    "book-17": {
+        "class": "diningtable",
+        "score": 0.5877597332000732
+    },
+    "book-18": {
+        "class": "person",
+        "score": 0.8361923694610596
+    },
+    "book-19": {
+        "class": "person",
+        "score": 0.47150081396102905
+    },
+    "book-20": {
+        "class": "book",
+        "score": 0.5097815990447998
+    },
+    "tiger-1": {
+        "class": "giraffe",
+        "score": 0.3013482987880707
+    },
+    "tiger-2": {
+        "class": "zebra",
+        "score": 0.5074917078018188
+    },
+    "tiger-3": {
+        "class": "zebra",
+        "score": 0.2976890504360199
+    },
+    "tiger-4": {
+        "class": "zebra",
+        "score": 0.6267889738082886
+    },
+    "tiger-5": {
+        "class": "horse",
+        "score": 0.7253953218460083
+    },
+    "tiger-6": {
+        "class": "zebra",
+        "score": 0.8044136762619019
+    },
+    "tiger-7": {
+        "class": "person",
+        "score": 0.603871762752533
+    },
+    "tiger-8": {
+        "class": "zebra",
+        "score": 0.8885889649391174
+    },
+    "tiger-9": {
+        "class": "horse",
+        "score": 0.48540693521499634
+    },
+    "tiger-10": {
+        "class": "cow",
+        "score": 0.47014251351356506
+    },
+    "tiger-11": {
+        "class": "elephant",
+        "score": 0.5526827573776245
+    },
+    "tiger-12": {
+        "class": "zebra",
+        "score": 0.7552922368049622
+    },
+    "tiger-13": {
+        "class": "truck",
+        "score": 0.7006903886795044
+    },
+    "tiger-14": {
+        "class": "cow",
+        "score": 0.17271742224693298
+    },
+    "tiger-15": {
+        "class": "zebra",
+        "score": 0.950251042842865
+    },
+    "tiger-16": {
+        "class": "zebra",
+        "score": 0.4081331789493561
+    },
+    "tiger-17": {
+        "class": "horse",
+        "score": 0.4060421884059906
+    },
+    "tiger-18": {
+        "class": "giraffe",
+        "score": 0.13884517550468445
+    },
+    "tiger-19": {
+        "class": "zebra",
+        "score": 0.8723055124282837
+    },
+    "tiger-20": {
+        "class": "zebra",
+        "score": 0.5346030592918396
+    },
+    "guitar-1": {
+        "class": "person",
+        "score": 0.6893709897994995
+    },
+    "guitar-2": {
+        "class": "person",
+        "score": 0.4935838282108307
+    },
+    "guitar-3": {
+        "class": "person",
+        "score": 0.9119494557380676
+    },
+    "guitar-4": {
+        "class": "person",
+        "score": 0.8586650490760803
+    },
+    "guitar-5": {
+        "class": "person",
+        "score": 0.7979427576065063
+    },
+    "guitar-6": {
+        "class": "person",
+        "score": 0.771285891532898
+    },
+    "guitar-7": {
+        "class": "person",
+        "score": 0.8525995016098022
+    },
+    "guitar-8": {
+        "class": "person",
+        "score": 0.9363085627555847
+    },
+    "guitar-9": {
+        "class": "person",
+        "score": 0.9561969637870789
+    },
+    "guitar-10": {
+        "class": "person",
+        "score": 0.9905477166175842
+    },
+    "guitar-11": {
+        "class": "person",
+        "score": 0.7020103335380554
+    },
+    "guitar-12": {
+        "class": "person",
+        "score": 0.8257430791854858
+    },
+    "guitar-13": {
+        "class": "person",
+        "score": 0.9802200198173523
+    },
+    "guitar-14": {
+        "class": "person",
+        "score": 0.8716964721679688
+    },
+    "guitar-15": {
+        "class": "person",
+        "score": 0.951982855796814
+    },
+    "guitar-16": {
+        "class": "bird",
+        "score": 0.14393660426139832
+    },
+    "guitar-17": {
+        "class": "person",
+        "score": 0.8532330393791199
+    },
+    "guitar-18": {
+        "class": "person",
+        "score": 0.9588384032249451
+    },
+    "guitar-19": {
+        "class": "person",
+        "score": 0.920096218585968
+    },
+    "guitar-20": {
+        "class": "person",
+        "score": 0.5251397490501404
+    },
+    "squirrel-1": {
+        "class": "bed",
+        "score": 0.1378527730703354
+    },
+    "squirrel-2": {
+        "class": "bird",
+        "score": 0.21042922139167786
+    },
+    "squirrel-3": {
+        "class": "bird",
+        "score": 0.5078094601631165
+    },
+    "squirrel-4": {
+        "class": "bird",
+        "score": 0.6158810257911682
+    },
+    "squirrel-5": {
+        "class": "cup",
+        "score": 0.011372553184628487
+    },
+    "squirrel-6": {
+        "class": "boat",
+        "score": 0.1946694254875183
+    },
+    "squirrel-7": {
+        "class": "frisbee",
+        "score": 0.014497369527816772
+    },
+    "squirrel-8": {
+        "class": "bear",
+        "score": 0.4121238887310028
+    },
+    "squirrel-9": {
+        "class": "chair",
+        "score": 0.6611862778663635
+    },
+    "squirrel-10": {
+        "class": "bird",
+        "score": 0.9532373547554016
+    },
+    "squirrel-11": {
+        "class": "cat",
+        "score": 0.4346866309642792
+    },
+    "squirrel-12": {
+        "class": "bird",
+        "score": 0.20416271686553955
+    },
+    "squirrel-13": {
+        "class": "apple",
+        "score": 0.4609691798686981
+    },
+    "squirrel-14": {
+        "class": "person",
+        "score": 0.2392294555902481
+    },
+    "squirrel-15": {
+        "class": "giraffe",
+        "score": 0.2470645159482956
+    },
+    "squirrel-16": {
+        "class": "bird",
+        "score": 0.42937201261520386
+    },
+    "squirrel-17": {
+        "class": "bird",
+        "score": 0.2637085020542145
+    },
+    "squirrel-18": {
+        "class": "dog",
+        "score": 0.8116800785064697
+    },
+    "squirrel-19": {
+        "class": "bird",
+        "score": 0.08225817233324051
+    },
+    "squirrel-20": {
+        "class": "bird",
+        "score": 0.03163118660449982
+    },
+    "lizard-1": {
+        "class": "skis",
+        "score": 0.4329737424850464
+    },
+    "lizard-2": {
+        "class": "broccoli",
+        "score": 0.008722963742911816
+    },
+    "lizard-3": {
+        "class": "diningtable",
+        "score": 0.311542809009552
+    },
+    "lizard-4": {
+        "class": "train",
+        "score": 0.08952798694372177
+    },
+    "lizard-5": {
+        "class": "sofa",
+        "score": 0.8558085560798645
+    },
+    "lizard-6": {
+        "class": "cat",
+        "score": 0.2643930912017822
+    },
+    "lizard-7": {
+        "class": "bed",
+        "score": 0.28824660181999207
+    },
+    "lizard-8": {
+        "class": "person",
+        "score": 0.8980937600135803
+    },
+    "lizard-9": {
+        "class": "person",
+        "score": 0.1719111204147339
+    },
+    "lizard-10": {
+        "class": "person",
+        "score": 0.07672115415334702
+    },
+    "lizard-11": {
+        "class": "person",
+        "score": 0.8295847773551941
+    },
+    "lizard-12": {
+        "class": "cat",
+        "score": 0.676939070224762
+    },
+    "lizard-13": {
+        "class": "car",
+        "score": 0.06769566982984543
+    },
+    "lizard-14": {
+        "class": "cat",
+        "score": 0.3385067880153656
+    },
+    "lizard-15": {
+        "class": "toilet",
+        "score": 0.6236342191696167
+    },
+    "lizard-16": {
+        "class": "tvmonitor",
+        "score": 0.390140175819397
+    },
+    "lizard-17": {
+        "class": "chair",
+        "score": 0.045748282223939896
+    },
+    "lizard-18": {
+        "class": "person",
+        "score": 0.8848942518234253
+    },
+    "lizard-19": {
+        "class": "dog",
+        "score": 0.657493531703949
+    },
+    "lizard-20": {
+        "class": "refrigerator",
+        "score": 0.03458390384912491
+    },
+    "hat-1": {
+        "class": "person",
+        "score": 0.9574683308601379
+    },
+    "hat-2": {
+        "class": "person",
+        "score": 0.9536086320877075
+    },
+    "hat-3": {
+        "class": "person",
+        "score": 0.9584365487098694
+    },
+    "hat-4": {
+        "class": "person",
+        "score": 0.8550299406051636
+    },
+    "hat-5": {
+        "class": "person",
+        "score": 0.9725526571273804
+    },
+    "hat-6": {
+        "class": "person",
+        "score": 0.9670688509941101
+    },
+    "hat-7": {
+        "class": "person",
+        "score": 0.47452375292778015
+    },
+    "hat-8": {
+        "class": "person",
+        "score": 0.9980345964431763
+    },
+    "hat-9": {
+        "class": "person",
+        "score": 0.9837754964828491
+    },
+    "hat-10": {
+        "class": "bird",
+        "score": 0.3165382444858551
+    },
+    "hat-11": {
+        "class": "person",
+        "score": 0.86691814661026
+    },
+    "hat-12": {
+        "class": "person",
+        "score": 0.7652540802955627
+    },
+    "hat-13": {
+        "class": "person",
+        "score": 0.9702085852622986
+    },
+    "hat-14": {
+        "class": "person",
+        "score": 0.9188592433929443
+    },
+    "hat-15": {
+        "class": "person",
+        "score": 0.9211207628250122
+    },
+    "hat-16": {
+        "class": "person",
+        "score": 0.8893973231315613
+    },
+    "hat-17": {
+        "class": "person",
+        "score": 0.9693809747695923
+    },
+    "hat-18": {
+        "class": "person",
+        "score": 0.980936586856842
+    },
+    "hat-19": {
+        "class": "person",
+        "score": 0.6039219498634338
+    },
+    "hat-20": {
+        "class": "person",
+        "score": 0.941214919090271
+    },
+    "fox-1": {
+        "class": "cat",
+        "score": 0.738572359085083
+    },
+    "fox-2": {
+        "class": "car",
+        "score": 0.11102444678544998
+    },
+    "fox-3": {
+        "class": "cow",
+        "score": 0.6638686656951904
+    },
+    "fox-4": {
+        "class": "dog",
+        "score": 0.8383578062057495
+    },
+    "fox-5": {
+        "class": "elephant",
+        "score": 0.7683642506599426
+    },
+    "fox-6": {
+        "class": "teddy bear",
+        "score": 0.581053614616394
+    },
+    "fox-7": {
+        "class": "person",
+        "score": 0.6056488752365112
+    },
+    "fox-8": {
+        "class": "dog",
+        "score": 0.10787415504455566
+    },
+    "fox-9": {
+        "class": "dog",
+        "score": 0.41744139790534973
+    },
+    "fox-10": {
+        "class": "bear",
+        "score": 0.10184416174888611
+    },
+    "fox-11": {
+        "class": "bear",
+        "score": 0.5033371448516846
+    },
+    "fox-12": {
+        "class": "dog",
+        "score": 0.5745337605476379
+    },
+    "fox-13": {
+        "class": "bird",
+        "score": 0.23830610513687134
+    },
+    "fox-14": {
+        "class": "sheep",
+        "score": 0.7987227439880371
+    },
+    "fox-15": {
+        "class": "sheep",
+        "score": 0.6667807102203369
+    },
+    "fox-16": {
+        "class": "cow",
+        "score": 0.17727859318256378
+    },
+    "fox-17": {
+        "class": "bird",
+        "score": 0.8518083691596985
+    },
+    "fox-18": {
+        "class": "person",
+        "score": 0.28242671489715576
+    },
+    "fox-19": {
+        "class": "sheep",
+        "score": 0.5293169617652893
+    },
+    "fox-20": {
+        "class": "dog",
+        "score": 0.6824098229408264
+    },
+    "tank-1": {
+        "class": "boat",
+        "score": 0.7429912090301514
+    },
+    "tank-2": {
+        "class": "person",
+        "score": 0.48475775122642517
+    },
+    "tank-3": {
+        "class": "boat",
+        "score": 0.9394474029541016
+    },
+    "tank-4": {
+        "class": "person",
+        "score": 0.3029889166355133
+    },
+    "tank-5": {
+        "class": "boat",
+        "score": 0.5288415551185608
+    },
+    "tank-6": {
+        "class": "truck",
+        "score": 0.5715064406394958
+    },
+    "tank-7": {
+        "class": "boat",
+        "score": 0.4951298236846924
+    },
+    "tank-8": {
+        "class": "car",
+        "score": 0.27159544825553894
+    },
+    "tank-9": {
+        "class": "truck",
+        "score": 0.6546942591667175
+    },
+    "tank-10": {
+        "class": "person",
+        "score": 0.4586612582206726
+    },
+    "tank-11": {
+        "class": "truck",
+        "score": 0.6807997822761536
+    },
+    "tank-12": {
+        "class": "person",
+        "score": 0.8593316078186035
+    },
+    "tank-13": {
+        "class": "truck",
+        "score": 0.8123589158058167
+    },
+    "tank-14": {
+        "class": "train",
+        "score": 0.3738895654678345
+    },
+    "tank-15": {
+        "class": "person",
+        "score": 0.5201808214187622
+    },
+    "tank-16": {
+        "class": "cow",
+        "score": 0.4567134380340576
+    },
+    "tank-17": {
+        "class": "person",
+        "score": 0.6497446298599243
+    },
+    "tank-18": {
+        "class": "person",
+        "score": 0.901741087436676
+    },
+    "tank-19": {
+        "class": "person",
+        "score": 0.35844504833221436
+    },
+    "tank-20": {
+        "class": "sheep",
+        "score": 0.06966376304626465
+    },
+    "spider-1": {
+        "class": "bird",
+        "score": 0.2929428815841675
+    },
+    "spider-2": {
+        "class": "traffic light",
+        "score": 0.4745121896266937
+    },
+    "spider-3": {
+        "class": "car",
+        "score": 0.043811995536088943
+    },
+    "spider-4": {
+        "class": "dog",
+        "score": 0.26369935274124146
+    },
+    "spider-5": {
+        "class": "bowl",
+        "score": 0.11436937004327774
+    },
+    "spider-6": {
+        "class": "orange",
+        "score": 0.7051126956939697
+    },
+    "spider-7": {
+        "class": "person",
+        "score": 0.7851266860961914
+    },
+    "spider-8": {
+        "class": "person",
+        "score": 0.6763206720352173
+    },
+    "spider-9": {
+        "class": "clock",
+        "score": 0.00597591046243906
+    },
+    "spider-10": {
+        "class": "bed",
+        "score": 0.7363031506538391
+    },
+    "spider-11": {
+        "class": "fire hydrant",
+        "score": 0.32097139954566956
+    },
+    "spider-12": {
+        "class": "bird",
+        "score": 0.229856476187706
+    },
+    "spider-13": {
+        "class": "donut",
+        "score": 0.21346494555473328
+    },
+    "spider-14": {
+        "class": "bird",
+        "score": 0.07850337028503418
+    },
+    "spider-15": {
+        "class": "cake",
+        "score": 0.06759840250015259
+    },
+    "spider-16": {
+        "class": "bowl",
+        "score": 0.31967663764953613
+    },
+    "spider-17": {
+        "class": "kite",
+        "score": 0.34587618708610535
+    },
+    "spider-18": {
+        "class": "person",
+        "score": 0.14650936424732208
+    },
+    "spider-19": {
+        "class": "bird",
+        "score": 0.07485058903694153
+    },
+    "spider-20": {
+        "class": "suitcase",
+        "score": 0.3362943232059479
+    }
+}
