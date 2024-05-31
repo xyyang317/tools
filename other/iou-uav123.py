@@ -294,7 +294,8 @@ sequence_info_list = [
 
 
 input_ptah = '/home/lsw/LSW/projects/tools/other/input/uav123'
-trackers = sorted(os.listdir(input_ptah))
+# trackers = sorted(os.listdir(input_ptah))
+trackers = ['TATrack']
 bbox_path = [os.path.join(input_ptah, t) for t in trackers]
 save_path = '/home/lsw/LSW/projects/tools/other/output/uav123'
 data_path = '/home/lsw/data/UAV123'
@@ -320,10 +321,10 @@ for j, m in enumerate(sequence_info_list):
             iou = box_iou_xywh(bbox[k], anno[k])
             ious.append(iou)
         mean_iou.append(np.array(ious).mean())
-
-        with open(os.path.join(save_dir, '{}.txt'.format(n)), 'a') as f:
-            f.write(str(ious)[1:-1])
-            f.close()
+        print(m['name'], mean_iou)
+        # with open(os.path.join(save_dir, '{}.txt'.format(n)), 'a') as f:
+        #     f.write(str(ious)[1:-1])
+        #     f.close()
     # if mean_iou[2] - mean_iou[1] > 0.1:
     #     print(m['name'], mean_iou)
 

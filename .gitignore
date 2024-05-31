@@ -3,7 +3,7 @@
 .idea
 **/.idea
 .gitignore
-**.pyc
+*.pyc
 **/__pycache__
 
 
