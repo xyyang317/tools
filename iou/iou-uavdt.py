@@ -39,9 +39,9 @@ import numpy as np
 from tqdm import tqdm
 
 sequence_info_list = os.listdir('/home/lsw/data/UAVDT/sequences')
-input_ptah = '/home/lsw/LSW/projects/tools/other/input/uavdt'
+input_ptah = '/home/lsw/LSW/projects/tools/visual/bbox/input/uavdt'
 # trackers = sorted(os.listdir(input_ptah))
-trackers = ['TATrack']
+trackers = ['AutoTrack', 'SiamAPN', 'HiFT', 'TCTrack', 'AVTrack', 'Aba-ViTrack', 'Aba-ViTrack++']
 bbox_path = [os.path.join(input_ptah, t) for t in trackers]
 save_path = '/home/lsw/LSW/projects/tools/other/output/uavdt'
 data_path = '/home/lsw/data/UAVDT'
@@ -67,7 +67,7 @@ for j, m in enumerate(sequence_info_list):
             iou = box_iou_xywh(bbox[k], anno[k])
             ious.append(iou)
         mean_iou.append(np.array(ious).mean())
-        print(m, mean_iou)
+    print(m, mean_iou)
         # with open(os.path.join(save_dir, '{}.txt'.format(n)), 'a') as f:
         #     f.write(str(ious)[1:-1])
         #     f.close()

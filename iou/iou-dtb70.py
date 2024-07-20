@@ -38,13 +38,13 @@ import cv2
 import numpy as np
 from tqdm import tqdm
 
-sequence_info_list = os.listdir('/home/lsw/data/VisDrone2018/sequences')
-input_ptah = '/home/lsw/LSW/projects/tools/other/input/visdrone'
+sequence_info_list = os.listdir('/home/lsw/data/DTB70')
+input_ptah = '/home/lsw/LSW/projects/tools/visual/bbox/input/dtb70'
 # trackers = sorted(os.listdir(input_ptah))
-trackers = ['TATrack']
+trackers = ['AutoTrack', 'SiamAPN', 'HiFT', 'TCTrack', 'AVTrack', 'Aba-ViTrack', 'Aba-ViTrack++']
 bbox_path = [os.path.join(input_ptah, t) for t in trackers]
-save_path = '/home/lsw/LSW/projects/tools/other/output/visdrone'
-data_path = '/home/lsw/data/VisDrone2018'
+save_path = '/home/lsw/LSW/projects/tools/other/output/dtb70'
+data_path = '/home/lsw/data/DTB70'
 
 # {"name": "uav_bike1", "path": "data_seq/UAV123/bike1", "startFrame": 1, "endFrame": 3085, "nz": 6,"ext": "jpg",
 # "anno_path": "anno/UAV123/bike1.txt", "object_class": "vehicle"},
@@ -55,7 +55,7 @@ for j, m in enumerate(sequence_info_list):
         bbox_file = os.path.join(bbox_path[i], '{}.txt'.format(m))
         bbox = np.loadtxt(bbox_file, delimiter='\t')
 
-        anno_file = '{}/annotations/{}.txt'.format(data_path, m)
+        anno_file = '{}/{}/groundtruth_rect.txt'.format(data_path, m)
         anno = np.loadtxt(anno_file, delimiter=',')
 
         save_dir = '{}/{}'.format(save_path, m)
@@ -67,7 +67,7 @@ for j, m in enumerate(sequence_info_list):
             iou = box_iou_xywh(bbox[k], anno[k])
             ious.append(iou)
         mean_iou.append(np.array(ious).mean())
-        print(m, mean_iou)
+    print(m, mean_iou)
         # with open(os.path.join(save_dir, '{}.txt'.format(n)), 'a') as f:
         #     f.write(str(ious)[1:-1])
         #     f.close()

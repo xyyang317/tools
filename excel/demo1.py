@@ -14,6 +14,8 @@ def jsondata(file_name='', max=True):
 
     avg_prec = []
     for e in epochs:
+        if e == 'epoch2802':
+            continue
         p = []
         for d in datasets:
             p.append(round(100 * json_data[d][e]['precision_score'], 1))
@@ -31,7 +33,7 @@ def jsondata(file_name='', max=True):
 
     data.update({'weight': weight.tolist()})
     data.update({'batch_size': batch_size.tolist()})
-    data.update({'epoch': [e[-3:] for e in epochs]})
+    data.update({'epoch': [e[-4:-1] for e in epochs]})
 
     for d in datasets:
         prec = []
@@ -58,14 +60,16 @@ def toxls(data):
     save_path = '{}/outputs'.format(os.getcwd())
     if not os.path.isdir(save_path):
         os.mkdir(save_path)
-    save_name = '{}/out.xlsx'.format(save_path)
+    save_name = '{}/out3.xlsx'.format(save_path)
     df = pd.DataFrame(save_data)
     df.to_excel(save_name, index=False)
 
 
 path = 'input'
 data = []
-for i in os.listdir(path):
+files = os.listdir(path)
+files.sort()
+for i in files:
     file_name = os.path.join(path, i)
     d = jsondata(file_name=file_name)
     data.append(d)

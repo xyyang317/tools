@@ -53,5 +53,5 @@ def json2xls(file_name='', max=True):
     df.to_excel(save_name, index=False)
 
 
-file_name = 'input/1-10.json'
+file_name = 'input/avit_tiny_patch16_224_kd_net2_report.json'
 json2xls(file_name=file_name)
