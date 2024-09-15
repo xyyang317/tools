@@ -19,14 +19,14 @@ from matplotlib.ticker import MultipleLocator
 
 # uav123@10fps
 x = [
-     [623, 6.1, 54, 193, 84, 28.4, 56,36],
-     [167.5, 160.3, 199, 140, 34, 119],
+     [623, 6.1, 193, 84, 28.4, 34, 56],
+     [194, 160, 119, 140, 34],
      [237, 184, 243,],
      [181, 270],
     ]
 y = [
-     [40.6 , 58.4, 57.2, 51.6, 64.0, 62.7,  67.1,69.4 ],
-     [76.4, 74.9, 75.1, 78.0, 77.8, 71.0],
+     [40.6 , 58.4, 51.6, 64.0, 62.7, 66.6, 67.1],
+     [75.2, 74.9, 78.0, 78.0, 77.3],
      [80.9, 81.0, 83.2],
      [85.0, 85.8],
      ]
@@ -40,9 +40,11 @@ plt.rcParams['figure.dpi'] = 1000 #分辨率
 for i, color in enumerate(colors):
      for j, xx in enumerate(x[i]):
         scale = 150
+        alpha = 0.6
         if i == 3:
             scale = (y[i][j]-83)*50 + 180
-        ax.scatter(x[i][j], y[i][j], c=color, s=scale, label='', alpha=0.8, edgecolors='black',marker=markers[i])
+            alpha = 0.8
+        ax.scatter(x[i][j], y[i][j], c=color, s=scale, label='', alpha=alpha, edgecolors='black',marker=markers[i])
 
 plt.xticks(fontsize=14)  # x轴刻度字体大小
 plt.yticks(fontsize=14)  # y轴刻度字体大小
@@ -56,7 +58,7 @@ plt.xlim(0, 630)  # X轴范围
 plt.ylim(39, 90)  # 显示y轴范围
 y_major_locator = MultipleLocator(10)
 x_major_locator = MultipleLocator(50)
-plt.grid(linestyle='--', which='major')
+plt.grid(linestyle='', which='major')
 TK.yaxis.set_major_locator(y_major_locator)
 TK.xaxis.set_major_locator(x_major_locator)
 

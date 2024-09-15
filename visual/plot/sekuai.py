@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-name = 'train-11'
+name = 'train-1'
 x_file = '/home/lsw/LSW/projects/tools/visual/plot/input/blocks-our-{}.txt'.format(name)
 # y_file = '/home/lsw/LSW/projects/tools/visual/plot/input/blocks-rand-{}.txt'.format(name)
 x = []
@@ -28,7 +28,7 @@ for i, _ in enumerate(x):
     X= np.expand_dims(np.array(x[i]), axis=0)
 
     plt.figure(figsize=(10,1))
-    plt.imshow(X,cmap='Reds')
+    plt.imshow(X,cmap='hot')
     plt.savefig('/home/lsw/LSW/projects/tools/visual/plot/output/sekuai/{}/our_{}.png'.format(name, i))
     plt.close()
 

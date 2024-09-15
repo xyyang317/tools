@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 from tqdm import tqdm
 
-sequence_list = ['DJI_0032']
+sequence_list = ['VID_20240714_224019']
 input_ptah = '/home/lsw/LSW/projects/tools/visual/real_world/txt'
 save_path = '/home/lsw/LSW/projects/tools/visual/real_world/bbox'
 data_path = '/home/lsw/LSW/projects/tools/visual/real_world/frames'
@@ -29,7 +29,7 @@ for j, m in enumerate(sequence_list):
         GrayImage = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
         x1, y1, w1, h1 = bbox[i]
-        draw = cv2.rectangle(image, (x1, y1), (x1 + w1, y1 + h1), color, 2)
+        draw = cv2.rectangle(image, (x1, y1), (x1 + w1, y1 + h1), color, 5)
 
         cv2.imwrite(os.path.join(save_dir, "{}.jpg".format(i)), draw)
         pbar.update(1)

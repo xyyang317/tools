@@ -23,13 +23,13 @@ def compute_mcle(ground_truths, predictions):
 
         # 计算两个中心点之间的欧氏距离
         error = ((gt_center_x - pred_center_x) ** 2 + (gt_center_y - pred_center_y) ** 2) ** 0.5
-        errors.append(error)
+        errors.append(error/1)
 
     # 计算所有误差的平均值
     return errors
 
 if __name__ == '__main__':
-    name = 'DJI_0032'
+    name = 'DJI_0033'
     gt_path = '/home/lsw/LSW/projects/tools/visual/real_world/frames/{}/groundtruth_rect.txt'.format(name)
     pred_path = '/home/lsw/LSW/projects/tools/visual/real_world/txt/{}.txt'.format(name)
     gt = np.loadtxt(gt_path, delimiter=',').astype('int_')
@@ -38,7 +38,7 @@ if __name__ == '__main__':
 
     #保存数据
     save_path = '/home/lsw/LSW/projects/tools/visual/real_world/cle/{}.txt'.format(name)
-    np.savetxt(save_path, np.c_[mcle], fmt='%s', delimiter='\t')
+    # np.savetxt(save_path, np.c_[mcle], fmt='%s', delimiter='\t')
 
     #画线
     y_file = save_path
