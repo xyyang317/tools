@@ -29,7 +29,7 @@ def compute_mcle(ground_truths, predictions):
     return errors
 
 if __name__ == '__main__':
-    name = 'DJI_0033'
+    name = 'DJI_0034'
     gt_path = '/home/lsw/LSW/projects/tools/visual/real_world/frames/{}/groundtruth_rect.txt'.format(name)
     pred_path = '/home/lsw/LSW/projects/tools/visual/real_world/txt/{}.txt'.format(name)
     gt = np.loadtxt(gt_path, delimiter=',').astype('int_')
